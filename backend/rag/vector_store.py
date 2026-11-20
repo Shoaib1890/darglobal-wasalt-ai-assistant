@@ -43,8 +43,10 @@ class VectorStoreManager:
             
             for chunk in chunks:
                 ids.append(chunk["chunk_id"])
-                # Index the full text
-                documents.append(chunk["text"])
+                # Combine section, metadata keywords and text for rich bilingual indexing
+                meta_keywords = " ".join(str(v) for v in chunk.get("metadata", {}).values() if isinstance(v, (str, int)))
+                enriched_text = f"{chunk['domain']} {chunk['section']} {meta_keywords}\n{chunk['text']}"
+                documents.append(enriched_text)
                 # Store metadata for retrieval and attribution
                 meta = {
                     "chunk_id": chunk["chunk_id"],

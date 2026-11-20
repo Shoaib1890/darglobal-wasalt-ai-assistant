@@ -28,7 +28,7 @@ EMBEDDING_MODEL_NAME = os.getenv(
 
 # Retrieval Defaults
 DEFAULT_TOP_K = int(os.getenv("DEFAULT_TOP_K", "4"))
-SIMILARITY_RELEVANCE_THRESHOLD = float(os.getenv("SIMILARITY_RELEVANCE_THRESHOLD", "0.35"))
+SIMILARITY_RELEVANCE_THRESHOLD = float(os.getenv("SIMILARITY_RELEVANCE_THRESHOLD", "0.30"))
 
 # App Info
 APP_NAME = "DarGlobal & Wasalt AI Assistant API"

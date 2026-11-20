@@ -18,11 +18,10 @@ RUN npm run build
 # ==========================================
 FROM python:3.11-slim
 
-# Set environment variables
+# Set environment variables for ultra-low memory footprint
 ENV PYTHONUNBUFFERED=1 \
     PYTHONDONTWRITEBYTECODE=1 \
-    PORT=7860 \
-    HF_HUB_DISABLE_SYMLINKS_WARNING=1
+    PORT=10000
 
 WORKDIR /app
 
@@ -31,14 +30,11 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     curl \
     && rm -rf /var/lib/apt/lists/*
 
-# Install Python requirements
+# Install lightweight Python requirements (Zero PyTorch, <110MB RAM)
 COPY requirements.txt ./
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Pre-download multilingual embedding model to warm container cache
-RUN python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2')"
-
-# Set up user for Hugging Face Spaces compatibility (uid 1000)
+# Set up user for compatibility with rootless container runtimes (uid 1000)
 RUN useradd -m -u 1000 user
 ENV HOME=/home/user \
     PATH=/home/user/.local/bin:$PATH
@@ -53,12 +49,10 @@ COPY --from=frontend-builder /app/backend/static ./backend/static
 
 # Ensure correct permissions for persistent ChromaDB storage
 RUN mkdir -p /app/data/chroma_db && chown -R user:user /app
-
-# Switch to non-root user
 USER user
 
-# Expose standard port for Hugging Face Spaces / Container platforms
-EXPOSE 7860
+# Expose ports for Render (10000) and Hugging Face (7860)
+EXPOSE 10000 7860
 
-# Launch Uvicorn server bound to 0.0.0.0 with dynamic PORT fallback
-CMD ["sh", "-c", "uvicorn backend.main:app --host 0.0.0.0 --port ${PORT:-7860}"]
+# Launch Uvicorn bound to 0.0.0.0 on Render / Hugging Face dynamic PORT
+CMD ["sh", "-c", "uvicorn backend.main:app --host 0.0.0.0 --port ${PORT:-10000}"]

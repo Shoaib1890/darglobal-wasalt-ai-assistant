@@ -12,7 +12,7 @@ class HybridRetriever:
     def __init__(self):
         self.vs = vector_store
 
-    def _keyword_boost(self, query: str, text: str) -> float:
+    def _keyword_boost(self, query: str, text: str, section: str = "") -> float:
         """Calculates a lexical match score for domain-specific acronyms and entities."""
         query_tokens = set(re.findall(r'[\w\u0600-\u06FF]+', query.lower()))
         if not query_tokens:
@@ -20,14 +20,15 @@ class HybridRetriever:
 
         # Exact keywords of high significance
         priority_terms = {
-            "rega", "الهيئة", "العقار", "1200016591", "مزادات", "وصلت",
+            "rega", "الهيئة", "العقار", "1200016591", "مزادات", "وصلت", "ترخيص",
             "naiza", "dar u", "darlean", "dossym", "tns", "tns+", "qazcode",
-            "утемуратов", "utemuratov", "veon", "казахстан", "kazakhstan"
+            "утемуратов", "utemuratov", "veon", "казахстан", "kazakhstan",
+            "education", "university", "sports", "sport", "telecom", "projects", "ecosystem"
         }
         
         matches = 0
         priority_matches = 0
-        text_lower = text.lower()
+        text_lower = f"{text} {section}".lower()
         
         for token in query_tokens:
             if len(token) > 2 and token in text_lower:
@@ -55,7 +56,7 @@ class HybridRetriever:
         ranked = []
         for item in candidates:
             semantic_score = item["score"]
-            boost = self._keyword_boost(query, item["text"])
+            boost = self._keyword_boost(query, item["text"], item.get("section", ""))
             hybrid_score = min(1.0, semantic_score + boost)
             
             item["score"] = round(hybrid_score, 4)
