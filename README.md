@@ -10,6 +10,13 @@ pinned: false
 
 # DarGlobal × Wasalt AI Assistant
 
+[![Live Application](https://img.shields.io/badge/Live%20App-Online%20on%20Render-success?style=for-the-badge&logo=render)](https://darglobal-wasalt-ai-assistant-p59q.onrender.com)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Shoaib1890/darglobal-wasalt-ai-assistant)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+
+> **Live Deployed Application:** [https://darglobal-wasalt-ai-assistant-p59q.onrender.com](https://darglobal-wasalt-ai-assistant-p59q.onrender.com)  
+> **Submission Report:** [SUBMISSION_REPORT.md](file:///c:/Users/Shoai/My%20Projects/DarGlobal-ai-chatbot/SUBMISSION_REPORT.md)
+
 A production-grade, bilingual AI chatbot built to answer inquiries using strictly verified, publicly accessible information scraped from:
 1. **[https://www.darglobal.com/](https://www.darglobal.com/)** — DAR Group / DAR Ecosystem (founded by Alidar Utemuratov).
 2. **[https://wasalt.sa/](https://wasalt.sa/)** — Wasalt Real Estate Platform in Saudi Arabia (licensed by REGA).
