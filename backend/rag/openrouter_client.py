@@ -83,7 +83,17 @@ class OpenRouterClient:
             )
             return ans, [citation], True, "grounded-retriever-fallback"
 
-        # 3. Call OpenRouter API
+        # 3. Call OpenRouter API with multi-model fallback chain to defeat rate limits
+        candidate_models = [
+            self.model,
+            "google/gemma-4-31b-it:free",
+            "google/gemma-4-26b-a4b-it:free",
+            "nvidia/nemotron-3.5-lightning:free",
+            "openrouter/free"
+        ]
+        # Deduplicate preserving order
+        models_to_try = list(dict.fromkeys(candidate_models))
+
         messages = build_prompt_with_context(query, retrieved_chunks, history)
         headers = {
             "Authorization": f"Bearer {self.api_key.strip()}",
@@ -91,70 +101,68 @@ class OpenRouterClient:
             "HTTP-Referer": "https://darglobal-wasalt-assistant.local",
             "X-Title": "DarGlobal & Wasalt AI Assistant"
         }
-        payload = {
-            "model": self.model,
-            "messages": messages,
-            "temperature": 0.1,  # Strictly factual
-            "max_tokens": 1000
-        }
 
-        try:
-            async with httpx.AsyncClient(timeout=35.0) as client:
-                resp = await client.post(
-                    f"{self.base_url}/chat/completions",
-                    headers=headers,
-                    json=payload
-                )
-                if resp.status_code != 200:
-                    logger.error(f"OpenRouter API error {resp.status_code}: {resp.text}")
-                    # Graceful fallback to context facts on API limit
-                    top_chunk = retrieved_chunks[0]
-                    fallback_text = (
-                        f"Found in {top_chunk['domain']} [{top_chunk['section']}]:\n\n"
-                        f"{top_chunk['text']}"
+        async with httpx.AsyncClient(timeout=35.0) as client:
+            for model_candidate in models_to_try:
+                payload = {
+                    "model": model_candidate,
+                    "messages": messages,
+                    "temperature": 0.1,  # Strictly factual
+                    "max_tokens": 1000
+                }
+                try:
+                    resp = await client.post(
+                        f"{self.base_url}/chat/completions",
+                        headers=headers,
+                        json=payload
                     )
-                    citation = Citation(
-                        chunk_id=top_chunk["chunk_id"],
-                        domain=top_chunk["domain"],
-                        source_url=top_chunk["source_url"],
-                        section=top_chunk["section"],
-                        quote=top_chunk["text"][:200]
-                    )
-                    return fallback_text, [citation], True, self.model
+                    if resp.status_code == 200:
+                        data = resp.json()
+                        answer = data["choices"][0]["message"]["content"]
+                        model_used = data.get("model", model_candidate)
 
-                data = resp.json()
-                answer = data["choices"][0]["message"]["content"]
-                model_used = data.get("model", self.model)
+                        # Extract citations
+                        citations = []
+                        for chunk in retrieved_chunks:
+                            if chunk["chunk_id"] in answer or len(citations) < 2:
+                                citations.append(Citation(
+                                    chunk_id=chunk["chunk_id"],
+                                    domain=chunk["domain"],
+                                    source_url=chunk["source_url"],
+                                    section=chunk["section"],
+                                    quote=chunk["text"][:180] + "..."
+                                ))
 
-                # Extract citations
-                citations = []
-                for chunk in retrieved_chunks:
-                    # If chunk id mentioned or if top relevance, attach citation
-                    if chunk["chunk_id"] in answer or len(citations) < 2:
-                        citations.append(Citation(
-                            chunk_id=chunk["chunk_id"],
-                            domain=chunk["domain"],
-                            source_url=chunk["source_url"],
-                            section=chunk["section"],
-                            quote=chunk["text"][:180] + "..."
-                        ))
+                        return answer, citations, True, model_used
+                    else:
+                        logger.warning(
+                            f"Model {model_candidate} returned HTTP {resp.status_code} ({resp.text[:120]}). Trying next fallback model..."
+                        )
+                except Exception as ex:
+                    logger.warning(f"Error calling {model_candidate}: {ex}. Trying next model...")
 
-                return answer, citations, True, model_used
-
-        except Exception as e:
-            logger.error(f"Exception during OpenRouter completion: {e}")
-            top_chunk = retrieved_chunks[0]
+        # If all candidate models failed (e.g. general rate limit)
+        top_chunk = retrieved_chunks[0]
+        if is_arabic:
             fallback_text = (
-                f"Information from {top_chunk['domain']} [{top_chunk['section']}]:\n\n"
-                f"{top_chunk['text']}"
+                f"**المعلومات المعتمدة من منصة {top_chunk['domain']} ({top_chunk['section']}):**\n\n"
+                f"{top_chunk['text']}\n\n"
+                "*(ملاحظة: واجهت خدمة الذكاء الاصطناعي ضغطاً مؤقتاً، وتم تزويدكم بالبيانات الموثقة مباشرة من قاعدة المعرفة)*"
             )
-            citation = Citation(
-                chunk_id=top_chunk["chunk_id"],
-                domain=top_chunk["domain"],
-                source_url=top_chunk["source_url"],
-                section=top_chunk["section"],
-                quote=top_chunk["text"][:200]
+        else:
+            fallback_text = (
+                f"**Verified Record from {top_chunk['domain']} ({top_chunk['section']}):**\n\n"
+                f"{top_chunk['text']}\n\n"
+                "*(Note: The free AI model queue is currently under high load; displaying the verified source data directly.)*"
             )
-            return fallback_text, [citation], True, "retriever-fallback"
+
+        citation = Citation(
+            chunk_id=top_chunk["chunk_id"],
+            domain=top_chunk["domain"],
+            source_url=top_chunk["source_url"],
+            section=top_chunk["section"],
+            quote=top_chunk["text"][:200]
+        )
+        return fallback_text, [citation], True, "retriever-verified-record"
 
 openrouter_client = OpenRouterClient()
