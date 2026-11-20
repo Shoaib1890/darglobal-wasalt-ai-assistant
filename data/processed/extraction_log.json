@@ -1,0 +1,89 @@
+{
+  "timestamp": "2026-11-20T14:15:48.504012+00:00",
+  "domains": {
+    "darglobal.com": {
+      "status": "success",
+      "pages_checked": [
+        {
+          "url": "https://www.darglobal.com/",
+          "status_code": 200,
+          "content_length": 169588,
+          "note": "Accessible"
+        },
+        {
+          "url": "https://www.darglobal.com/ru",
+          "status_code": 200,
+          "content_length": 169588,
+          "note": "Accessible"
+        },
+        {
+          "url": "https://www.darglobal.com/en",
+          "status_code": 200,
+          "content_length": 169588,
+          "note": "Accessible"
+        },
+        {
+          "url": "https://www.darglobal.com/kz",
+          "status_code": 200,
+          "content_length": 169588,
+          "note": "Accessible"
+        },
+        {
+          "url": "https://www.darglobal.com/about",
+          "status_code": 200,
+          "content_length": 169588,
+          "note": "Accessible"
+        },
+        {
+          "url": "https://www.darglobal.com/projects",
+          "status_code": 200,
+          "content_length": 169588,
+          "note": "Accessible"
+        }
+      ],
+      "documents_extracted": 13
+    },
+    "wasalt.sa": {
+      "status": "success",
+      "pages_checked": [
+        {
+          "url": "https://wasalt.sa/",
+          "status_code": 200,
+          "content_length": 392796,
+          "note": "Accessible"
+        },
+        {
+          "url": "https://wasalt.sa/en",
+          "status_code": 200,
+          "content_length": 412693,
+          "note": "Accessible"
+        },
+        {
+          "url": "https://wasalt.sa/search",
+          "status_code": 404,
+          "content_length": 202168,
+          "note": "Cloudflare status 404"
+        },
+        {
+          "url": "https://wasalt.sa/عقارات-للبيع-في-الرياض",
+          "status_code": 200,
+          "content_length": 656171,
+          "note": "Accessible"
+        },
+        {
+          "url": "https://wasalt.sa/عقارات-للايجار-في-الرياض",
+          "status_code": 200,
+          "content_length": 618147,
+          "note": "Accessible"
+        }
+      ],
+      "documents_extracted": 11
+    }
+  },
+  "inaccessible_pages": [
+    {
+      "url": "https://wasalt.sa/search",
+      "reason": "HTTP 404 (Cloudflare security challenge)"
+    }
+  ]
+}

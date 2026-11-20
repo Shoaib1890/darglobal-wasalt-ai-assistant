@@ -1,0 +1,2503 @@
+{
+  "props": {
+    "pageProps": {
+      "projects": {
+        "id": 1,
+        "attributes": {
+          "createdAt": "2022-12-18T08:33:55.240Z",
+          "updatedAt": "2025-01-23T06:01:24.956Z",
+          "publishedAt": "2022-12-18T08:33:57.180Z",
+          "locale": "ru",
+          "items": [
+            {
+              "id": 2,
+              "title": "Naiza",
+              "description": "Один из самых крупных \nпромоушенов СНГ, который ведет\nза собой и вдохновляем на подвиги.\n\nNaiza - это спорт, жизнь и зрелищность. Хочешь драться - дерись в ринге! ",
+              "url": "https://naiza.tv",
+              "insta_url": "https://www.instagram.com/naiza.mma/?hl=ru",
+              "telegram_url": null,
+              "facebook_url": null,
+              "youtube_url": "https://www.youtube.com/@NAIZATV",
+              "slider_description": "Мы создаем народных героев\n\nОдин из ТОП - ММА промоушенов в СНГ\n",
+              "slider_url_title": "naiza.tv/",
+              "slider_logo": {
+                "data": {
+                  "id": 17,
+                  "attributes": {
+                    "name": "лого найза.png",
+                    "alternativeText": "лого найза.png",
+                    "caption": "лого найза.png",
+                    "width": 208,
+                    "height": 36,
+                    "formats": {
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_logo_najza_8e507a2fc5.png",
+                        "hash": "xsmall_logo_najza_8e507a2fc5",
+                        "mime": "image/png",
+                        "name": "xsmall_лого найза.png",
+                        "path": null,
+                        "size": 1,
+                        "width": 64,
+                        "height": 11
+                      }
+                    },
+                    "hash": "logo_najza_8e507a2fc5",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.15,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/logo_najza_8e507a2fc5.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2022-12-05T07:54:13.633Z",
+                    "updatedAt": "2022-12-05T07:56:12.520Z"
+                  }
+                }
+              },
+              "slider_banner": {
+                "data": {
+                  "id": 44,
+                  "attributes": {
+                    "name": "1 (1).png",
+                    "alternativeText": "1 (1).png",
+                    "caption": "1 (1).png",
+                    "width": 504,
+                    "height": 397,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/small_1_1_ca82e7ac7b.png",
+                        "hash": "small_1_1_ca82e7ac7b",
+                        "mime": "image/png",
+                        "name": "small_1 (1).png",
+                        "path": null,
+                        "size": 254.2,
+                        "width": 500,
+                        "height": 394
+                      },
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_1_1_ca82e7ac7b.png",
+                        "hash": "xsmall_1_1_ca82e7ac7b",
+                        "mime": "image/png",
+                        "name": "xsmall_1 (1).png",
+                        "path": null,
+                        "size": 7.34,
+                        "width": 64,
+                        "height": 50
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/thumbnail_1_1_ca82e7ac7b.png",
+                        "hash": "thumbnail_1_1_ca82e7ac7b",
+                        "mime": "image/png",
+                        "name": "thumbnail_1 (1).png",
+                        "path": null,
+                        "size": 52.2,
+                        "width": 198,
+                        "height": 156
+                      }
+                    },
+                    "hash": "1_1_ca82e7ac7b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 65.57,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/1_1_ca82e7ac7b.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2023-05-19T09:01:29.320Z",
+                    "updatedAt": "2023-05-19T09:01:29.320Z"
+                  }
+                }
+              },
+              "logo": {
+                "data": {
+                  "id": 18,
+                  "attributes": {
+                    "name": "Group 10270.png",
+                    "alternativeText": "Group 10270.png",
+                    "caption": "Group 10270.png",
+                    "width": 531,
+                    "height": 89,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/small_Group_10270_ba5990ced0.png",
+                        "hash": "small_Group_10270_ba5990ced0",
+                        "mime": "image/png",
+                        "name": "small_Group 10270.png",
+                        "path": null,
+                        "size": 10.65,
+                        "width": 500,
+                        "height": 84
+                      },
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_Group_10270_ba5990ced0.png",
+                        "hash": "xsmall_Group_10270_ba5990ced0",
+                        "mime": "image/png",
+                        "name": "xsmall_Group 10270.png",
+                        "path": null,
+                        "size": 0.87,
+                        "width": 64,
+                        "height": 11
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/thumbnail_Group_10270_ba5990ced0.png",
+                        "hash": "thumbnail_Group_10270_ba5990ced0",
+                        "mime": "image/png",
+                        "name": "thumbnail_Group 10270.png",
+                        "path": null,
+                        "size": 4.5,
+                        "width": 245,
+                        "height": 41
+                      }
+                    },
+                    "hash": "Group_10270_ba5990ced0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.66,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/Group_10270_ba5990ced0.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2022-12-05T07:55:39.459Z",
+                    "updatedAt": "2022-12-05T07:55:39.459Z"
+                  }
+                }
+              },
+              "banner": {
+                "data": {
+                  "id": 46,
+                  "attributes": {
+                    "name": "naiza-2.png",
+                    "alternativeText": "naiza-2.png",
+                    "caption": "naiza-2.png",
+                    "width": 572,
+                    "height": 425,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/small_naiza_2_6cef433d3b.png",
+                        "hash": "small_naiza_2_6cef433d3b",
+                        "mime": "image/png",
+                        "name": "small_naiza-2.png",
+                        "path": null,
+                        "size": 249.65,
+                        "width": 500,
+                        "height": 372
+                      },
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_naiza_2_6cef433d3b.png",
+                        "hash": "xsmall_naiza_2_6cef433d3b",
+                        "mime": "image/png",
+                        "name": "xsmall_naiza-2.png",
+                        "path": null,
+                        "size": 7.26,
+                        "width": 64,
+                        "height": 47
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/thumbnail_naiza_2_6cef433d3b.png",
+                        "hash": "thumbnail_naiza_2_6cef433d3b",
+                        "mime": "image/png",
+                        "name": "thumbnail_naiza-2.png",
+                        "path": null,
+                        "size": 55.15,
+                        "width": 210,
+                        "height": 156
+                      }
+                    },
+                    "hash": "naiza_2_6cef433d3b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 76.1,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/naiza_2_6cef433d3b.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2023-05-19T09:06:29.236Z",
+                    "updatedAt": "2023-05-19T09:06:29.236Z"
+                  }
+                }
+              }
+            },
+            {
+              "id": 3,
+              "title": "DAR U",
+              "description": "DAR University - это университет нового поколения, где каждый может обучиться востребованной профессии за 5 месяцев с помощью наших менторов - экспертов DAR.\n\nDAR University – это максимум практики и эффективный старт карьеры в IT!",
+              "url": "https://dar.university/",
+              "insta_url": "https://www.instagram.com/dar.university/?hl=ru",
+              "telegram_url": "https://t.me/techozimiz",
+              "facebook_url": "https://www.facebook.com/profile.php?id=100086656909011",
+              "youtube_url": null,
+              "slider_description": "Университет\nнового поколения",
+              "slider_url_title": "5q.kz/",
+              "slider_logo": {
+                "data": {
+                  "id": 27,
+                  "attributes": {
+                    "name": "Group 21880 (1).png",
+                    "alternativeText": "Group 21880 (1).png",
+                    "caption": "Group 21880 (1).png",
+                    "width": 142,
+                    "height": 39,
+                    "formats": {
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_Group_21880_1_386ae32ca0.png",
+                        "hash": "xsmall_Group_21880_1_386ae32ca0",
+                        "mime": "image/png",
+                        "name": "xsmall_Group 21880 (1).png",
+                        "path": null,
+                        "size": 1.38,
+                        "width": 64,
+                        "height": 18
+                      }
+                    },
+                    "hash": "Group_21880_1_386ae32ca0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.87,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/Group_21880_1_386ae32ca0.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2022-12-06T08:09:44.154Z",
+                    "updatedAt": "2022-12-06T08:09:44.154Z"
+                  }
+                }
+              },
+              "slider_banner": {
+                "data": {
+                  "id": 45,
+                  "attributes": {
+                    "name": "shutterstock_1918368497 1.png",
+                    "alternativeText": "shutterstock_1918368497 1.png",
+                    "caption": "shutterstock_1918368497 1.png",
+                    "width": 520,
+                    "height": 408,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/small_shutterstock_1918368497_1_0d41fc8147.png",
+                        "hash": "small_shutterstock_1918368497_1_0d41fc8147",
+                        "mime": "image/png",
+                        "name": "small_shutterstock_1918368497 1.png",
+                        "path": null,
+                        "size": 347.81,
+                        "width": 500,
+                        "height": 392
+                      },
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_shutterstock_1918368497_1_0d41fc8147.png",
+                        "hash": "xsmall_shutterstock_1918368497_1_0d41fc8147",
+                        "mime": "image/png",
+                        "name": "xsmall_shutterstock_1918368497 1.png",
+                        "path": null,
+                        "size": 9.72,
+                        "width": 64,
+                        "height": 50
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/thumbnail_shutterstock_1918368497_1_0d41fc8147.png",
+                        "hash": "thumbnail_shutterstock_1918368497_1_0d41fc8147",
+                        "mime": "image/png",
+                        "name": "thumbnail_shutterstock_1918368497 1.png",
+                        "path": null,
+                        "size": 71.29,
+                        "width": 199,
+                        "height": 156
+                      }
+                    },
+                    "hash": "shutterstock_1918368497_1_0d41fc8147",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 87.33,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/shutterstock_1918368497_1_0d41fc8147.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2023-05-19T09:02:44.413Z",
+                    "updatedAt": "2023-05-19T09:02:44.413Z"
+                  }
+                }
+              },
+              "logo": {
+                "data": {
+                  "id": 26,
+                  "attributes": {
+                    "name": "Group 21880.png",
+                    "alternativeText": "Group 21880.png",
+                    "caption": "Group 21880.png",
+                    "width": 290,
+                    "height": 79,
+                    "formats": {
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_Group_21880_19083c07d8.png",
+                        "hash": "xsmall_Group_21880_19083c07d8",
+                        "mime": "image/png",
+                        "name": "xsmall_Group 21880.png",
+                        "path": null,
+                        "size": 2.3,
+                        "width": 64,
+                        "height": 18
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/thumbnail_Group_21880_19083c07d8.png",
+                        "hash": "thumbnail_Group_21880_19083c07d8",
+                        "mime": "image/png",
+                        "name": "thumbnail_Group 21880.png",
+                        "path": null,
+                        "size": 12.91,
+                        "width": 245,
+                        "height": 67
+                      }
+                    },
+                    "hash": "Group_21880_19083c07d8",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.78,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/Group_21880_19083c07d8.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2022-12-06T08:09:28.197Z",
+                    "updatedAt": "2022-12-06T08:09:28.197Z"
+                  }
+                }
+              },
+              "banner": {
+                "data": {
+                  "id": 47,
+                  "attributes": {
+                    "name": "daru2.png",
+                    "alternativeText": "daru2.png",
+                    "caption": "daru2.png",
+                    "width": 572,
+                    "height": 425,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/small_daru2_c2a68478a4.png",
+                        "hash": "small_daru2_c2a68478a4",
+                        "mime": "image/png",
+                        "name": "small_daru2.png",
+                        "path": null,
+                        "size": 338.57,
+                        "width": 500,
+                        "height": 372
+                      },
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_daru2_c2a68478a4.png",
+                        "hash": "xsmall_daru2_c2a68478a4",
+                        "mime": "image/png",
+                        "name": "xsmall_daru2.png",
+                        "path": null,
+                        "size": 9.09,
+                        "width": 64,
+                        "height": 47
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/thumbnail_daru2_c2a68478a4.png",
+                        "hash": "thumbnail_daru2_c2a68478a4",
+                        "mime": "image/png",
+                        "name": "thumbnail_daru2.png",
+                        "path": null,
+                        "size": 75.22,
+                        "width": 210,
+                        "height": 156
+                      }
+                    },
+                    "hash": "daru2_c2a68478a4",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 97.39,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/daru2_c2a68478a4.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2023-05-19T09:07:03.264Z",
+                    "updatedAt": "2023-05-19T09:07:03.264Z"
+                  }
+                }
+              }
+            },
+            {
+              "id": 4,
+              "title": "Darlean",
+              "description": "Автоматизируйте управление бизнесом с универсальной платформой \nDarlean",
+              "url": "https://darlean.kz/",
+              "insta_url": "https://www.instagram.com/5qit.business/?hl=ru",
+              "telegram_url": null,
+              "facebook_url": null,
+              "youtube_url": null,
+              "slider_description": "Автоматизируйте управление бизнесом с универсальной платформой \nDarlean",
+              "slider_url_title": "darlean.kz/",
+              "slider_logo": {
+                "data": {
+                  "id": 92,
+                  "attributes": {
+                    "name": "Group 23616.png",
+                    "alternativeText": "Group 23616.png",
+                    "caption": "Group 23616.png",
+                    "width": 213,
+                    "height": 42,
+                    "formats": {
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_Group_23616_8eaba31bca.png",
+                        "hash": "xsmall_Group_23616_8eaba31bca",
+                        "mime": "image/png",
+                        "name": "xsmall_Group 23616.png",
+                        "path": null,
+                        "size": 1.35,
+                        "width": 64,
+                        "height": 13
+                      }
+                    },
+                    "hash": "Group_23616_8eaba31bca",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.45,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/Group_23616_8eaba31bca.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2024-06-17T09:50:48.807Z",
+                    "updatedAt": "2024-06-17T09:50:48.807Z"
+                  }
+                }
+              },
+              "slider_banner": {
+                "data": {
+                  "id": 91,
+                  "attributes": {
+                    "name": "darlean.png",
+                    "alternativeText": "darlean.png",
+                    "caption": "darlean.png",
+                    "width": 630,
+                    "height": 498,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/small_darlean_7c0ced8806.png",
+                        "hash": "small_darlean_7c0ced8806",
+                        "mime": "image/png",
+                        "name": "small_darlean.png",
+                        "path": null,
+                        "size": 79.68,
+                        "width": 500,
+                        "height": 395
+                      },
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_darlean_7c0ced8806.png",
+                        "hash": "xsmall_darlean_7c0ced8806",
+                        "mime": "image/png",
+                        "name": "xsmall_darlean.png",
+                        "path": null,
+                        "size": 3.19,
+                        "width": 64,
+                        "height": 51
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/thumbnail_darlean_7c0ced8806.png",
+                        "hash": "thumbnail_darlean_7c0ced8806",
+                        "mime": "image/png",
+                        "name": "thumbnail_darlean.png",
+                        "path": null,
+                        "size": 17.03,
+                        "width": 197,
+                        "height": 156
+                      }
+                    },
+                    "hash": "darlean_7c0ced8806",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 21.21,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/darlean_7c0ced8806.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2024-06-17T09:49:56.533Z",
+                    "updatedAt": "2024-06-17T09:49:56.533Z"
+                  }
+                }
+              },
+              "logo": {
+                "data": {
+                  "id": 94,
+                  "attributes": {
+                    "name": "darlean-dark-logo.png",
+                    "alternativeText": "darlean-dark-logo.png",
+                    "caption": "darlean-dark-logo.png",
+                    "width": 233,
+                    "height": 47,
+                    "formats": {
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_darlean_dark_logo_b36c64a27a.png",
+                        "hash": "xsmall_darlean_dark_logo_b36c64a27a",
+                        "mime": "image/png",
+                        "name": "xsmall_darlean-dark-logo.png",
+                        "path": null,
+                        "size": 1.65,
+                        "width": 64,
+                        "height": 13
+                      }
+                    },
+                    "hash": "darlean_dark_logo_b36c64a27a",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.64,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/darlean_dark_logo_b36c64a27a.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2024-06-17T09:53:04.961Z",
+                    "updatedAt": "2024-06-17T09:53:04.961Z"
+                  }
+                }
+              },
+              "banner": {
+                "data": {
+                  "id": 93,
+                  "attributes": {
+                    "name": "darlean-main.png",
+                    "alternativeText": "darlean-main.png",
+                    "caption": "darlean-main.png",
+                    "width": 572,
+                    "height": 425,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/small_darlean_main_26873841ec.png",
+                        "hash": "small_darlean_main_26873841ec",
+                        "mime": "image/png",
+                        "name": "small_darlean-main.png",
+                        "path": null,
+                        "size": 106.52,
+                        "width": 500,
+                        "height": 372
+                      },
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_darlean_main_26873841ec.png",
+                        "hash": "xsmall_darlean_main_26873841ec",
+                        "mime": "image/png",
+                        "name": "xsmall_darlean-main.png",
+                        "path": null,
+                        "size": 4.52,
+                        "width": 64,
+                        "height": 47
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/thumbnail_darlean_main_26873841ec.png",
+                        "hash": "thumbnail_darlean_main_26873841ec",
+                        "mime": "image/png",
+                        "name": "thumbnail_darlean-main.png",
+                        "path": null,
+                        "size": 26.32,
+                        "width": 210,
+                        "height": 156
+                      }
+                    },
+                    "hash": "darlean_main_26873841ec",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 26.83,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/darlean_main_26873841ec.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2024-06-17T09:52:52.082Z",
+                    "updatedAt": "2024-06-17T09:52:52.082Z"
+                  }
+                }
+              }
+            },
+            {
+              "id": 5,
+              "title": "Dossym",
+              "description": "Dossym - представляет собой инновационный проект в области FinTech. Наша цель заключается в улучшении удобства и доступности финансовых услуг.\n\nМы предоставляем залоговое финансирование для предпринимателей.",
+              "url": "https://dossym.kz/",
+              "insta_url": "https://www.instagram.com/dossymkz/?hl=ru",
+              "telegram_url": null,
+              "facebook_url": "https://www.facebook.com/dossym.dossym",
+              "youtube_url": null,
+              "slider_description": "Микрокредиты\nпо-дружески",
+              "slider_url_title": "dossym.kz/",
+              "slider_logo": {
+                "data": {
+                  "id": 59,
+                  "attributes": {
+                    "name": "лого доссым.png",
+                    "alternativeText": "лого доссым.png",
+                    "caption": "лого доссым.png",
+                    "width": 235,
+                    "height": 52,
+                    "formats": {
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_logo_dossym_702dba5133.png",
+                        "hash": "xsmall_logo_dossym_702dba5133",
+                        "mime": "image/png",
+                        "name": "xsmall_лого доссым.png",
+                        "path": null,
+                        "size": 1.64,
+                        "width": 64,
+                        "height": 14
+                      }
+                    },
+                    "hash": "logo_dossym_702dba5133",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.7,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/logo_dossym_702dba5133.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2023-06-06T06:04:11.347Z",
+                    "updatedAt": "2023-06-06T06:04:11.347Z"
+                  }
+                }
+              },
+              "slider_banner": {
+                "data": {
+                  "id": 90,
+                  "attributes": {
+                    "name": "14.png",
+                    "alternativeText": "14.png",
+                    "caption": "14.png",
+                    "width": 519,
+                    "height": 408,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/small_14_5eceb792c9.png",
+                        "hash": "small_14_5eceb792c9",
+                        "mime": "image/png",
+                        "name": "small_14.png",
+                        "path": null,
+                        "size": 212.03,
+                        "width": 500,
+                        "height": 393
+                      },
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_14_5eceb792c9.png",
+                        "hash": "xsmall_14_5eceb792c9",
+                        "mime": "image/png",
+                        "name": "xsmall_14.png",
+                        "path": null,
+                        "size": 6.24,
+                        "width": 64,
+                        "height": 50
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/thumbnail_14_5eceb792c9.png",
+                        "hash": "thumbnail_14_5eceb792c9",
+                        "mime": "image/png",
+                        "name": "thumbnail_14.png",
+                        "path": null,
+                        "size": 43.15,
+                        "width": 198,
+                        "height": 156
+                      }
+                    },
+                    "hash": "14_5eceb792c9",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 59.11,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/14_5eceb792c9.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2023-09-07T05:36:42.418Z",
+                    "updatedAt": "2023-09-07T05:36:42.418Z"
+                  }
+                }
+              },
+              "logo": {
+                "data": {
+                  "id": 33,
+                  "attributes": {
+                    "name": "Group 21343.png",
+                    "alternativeText": "Group 21343.png",
+                    "caption": "Group 21343.png",
+                    "width": 482,
+                    "height": 107,
+                    "formats": {
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_Group_21343_17bf89a48a.png",
+                        "hash": "xsmall_Group_21343_17bf89a48a",
+                        "mime": "image/png",
+                        "name": "xsmall_Group 21343.png",
+                        "path": null,
+                        "size": 1.79,
+                        "width": 64,
+                        "height": 14
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/thumbnail_Group_21343_17bf89a48a.png",
+                        "hash": "thumbnail_Group_21343_17bf89a48a",
+                        "mime": "image/png",
+                        "name": "thumbnail_Group 21343.png",
+                        "path": null,
+                        "size": 14.37,
+                        "width": 245,
+                        "height": 54
+                      }
+                    },
+                    "hash": "Group_21343_17bf89a48a",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 3.31,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/Group_21343_17bf89a48a.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2022-12-06T08:16:12.144Z",
+                    "updatedAt": "2022-12-06T08:16:12.144Z"
+                  }
+                }
+              },
+              "banner": {
+                "data": {
+                  "id": 89,
+                  "attributes": {
+                    "name": "Frame 21496.png",
+                    "alternativeText": "Frame 21496.png",
+                    "caption": "Frame 21496.png",
+                    "width": 572,
+                    "height": 425,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/small_Frame_21496_f2cc3c950b.png",
+                        "hash": "small_Frame_21496_f2cc3c950b",
+                        "mime": "image/png",
+                        "name": "small_Frame 21496.png",
+                        "path": null,
+                        "size": 279.46,
+                        "width": 500,
+                        "height": 372
+                      },
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_Frame_21496_f2cc3c950b.png",
+                        "hash": "xsmall_Frame_21496_f2cc3c950b",
+                        "mime": "image/png",
+                        "name": "xsmall_Frame 21496.png",
+                        "path": null,
+                        "size": 7.56,
+                        "width": 64,
+                        "height": 47
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/thumbnail_Frame_21496_f2cc3c950b.png",
+                        "hash": "thumbnail_Frame_21496_f2cc3c950b",
+                        "mime": "image/png",
+                        "name": "thumbnail_Frame 21496.png",
+                        "path": null,
+                        "size": 62.69,
+                        "width": 210,
+                        "height": 156
+                      }
+                    },
+                    "hash": "Frame_21496_f2cc3c950b",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 93.99,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/Frame_21496_f2cc3c950b.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2023-09-07T05:19:09.244Z",
+                    "updatedAt": "2023-09-07T05:19:09.244Z"
+                  }
+                }
+              }
+            },
+            {
+              "id": 18,
+              "title": "TNS+",
+              "description": "Телекоммуникационная компания, предоставляющая интернет, аренду каналов, IPVPN, голосовой трафик и международные каналы связи в Казахстане",
+              "url": "https://tnsplus.kz/",
+              "insta_url": null,
+              "telegram_url": null,
+              "facebook_url": null,
+              "youtube_url": null,
+              "slider_description": "Телекоммуникационная \nкомпания, предоставляющая интернет, аренду каналов, IPVPN, голосовой трафик и международные каналы связи в Казахстане",
+              "slider_url_title": "tnsplus.kz/",
+              "slider_logo": {
+                "data": {
+                  "id": 95,
+                  "attributes": {
+                    "name": "tns-logo.png",
+                    "alternativeText": "tns-logo.png",
+                    "caption": "tns-logo.png",
+                    "width": 192,
+                    "height": 57,
+                    "formats": {
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_tns_logo_a5e02f7db2.png",
+                        "hash": "xsmall_tns_logo_a5e02f7db2",
+                        "mime": "image/png",
+                        "name": "xsmall_tns-logo.png",
+                        "path": null,
+                        "size": 2.27,
+                        "width": 64,
+                        "height": 19
+                      }
+                    },
+                    "hash": "tns_logo_a5e02f7db2",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.67,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/tns_logo_a5e02f7db2.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2024-06-17T10:03:00.086Z",
+                    "updatedAt": "2024-06-17T10:03:00.086Z"
+                  }
+                }
+              },
+              "slider_banner": {
+                "data": {
+                  "id": 96,
+                  "attributes": {
+                    "name": "tns.png",
+                    "alternativeText": "tns.png",
+                    "caption": "tns.png",
+                    "width": 630,
+                    "height": 498,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/small_tns_8325baaed7.png",
+                        "hash": "small_tns_8325baaed7",
+                        "mime": "image/png",
+                        "name": "small_tns.png",
+                        "path": null,
+                        "size": 343.06,
+                        "width": 500,
+                        "height": 395
+                      },
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_tns_8325baaed7.png",
+                        "hash": "xsmall_tns_8325baaed7",
+                        "mime": "image/png",
+                        "name": "xsmall_tns.png",
+                        "path": null,
+                        "size": 8.06,
+                        "width": 64,
+                        "height": 51
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/thumbnail_tns_8325baaed7.png",
+                        "hash": "thumbnail_tns_8325baaed7",
+                        "mime": "image/png",
+                        "name": "thumbnail_tns.png",
+                        "path": null,
+                        "size": 63.98,
+                        "width": 197,
+                        "height": 156
+                      }
+                    },
+                    "hash": "tns_8325baaed7",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 127.08,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/tns_8325baaed7.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2024-06-17T10:03:05.490Z",
+                    "updatedAt": "2024-06-17T10:03:05.490Z"
+                  }
+                }
+              },
+              "logo": {
+                "data": {
+                  "id": 98,
+                  "attributes": {
+                    "name": "tns-logo-dark.png",
+                    "alternativeText": "tns-logo-dark.png",
+                    "caption": "tns-logo-dark.png",
+                    "width": 209,
+                    "height": 63,
+                    "formats": {
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_tns_logo_dark_6544f2d427.png",
+                        "hash": "xsmall_tns_logo_dark_6544f2d427",
+                        "mime": "image/png",
+                        "name": "xsmall_tns-logo-dark.png",
+                        "path": null,
+                        "size": 2.42,
+                        "width": 64,
+                        "height": 19
+                      }
+                    },
+                    "hash": "tns_logo_dark_6544f2d427",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.82,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/tns_logo_dark_6544f2d427.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2024-06-17T10:06:13.984Z",
+                    "updatedAt": "2024-06-17T10:06:13.984Z"
+                  }
+                }
+              },
+              "banner": {
+                "data": {
+                  "id": 97,
+                  "attributes": {
+                    "name": "tns-main.png",
+                    "alternativeText": "tns-main.png",
+                    "caption": "tns-main.png",
+                    "width": 572,
+                    "height": 425,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/small_tns_main_2f01ab0680.png",
+                        "hash": "small_tns_main_2f01ab0680",
+                        "mime": "image/png",
+                        "name": "small_tns-main.png",
+                        "path": null,
+                        "size": 362.44,
+                        "width": 500,
+                        "height": 372
+                      },
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_tns_main_2f01ab0680.png",
+                        "hash": "xsmall_tns_main_2f01ab0680",
+                        "mime": "image/png",
+                        "name": "xsmall_tns-main.png",
+                        "path": null,
+                        "size": 8.47,
+                        "width": 64,
+                        "height": 47
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/thumbnail_tns_main_2f01ab0680.png",
+                        "hash": "thumbnail_tns_main_2f01ab0680",
+                        "mime": "image/png",
+                        "name": "thumbnail_tns-main.png",
+                        "path": null,
+                        "size": 76.03,
+                        "width": 210,
+                        "height": 156
+                      }
+                    },
+                    "hash": "tns_main_2f01ab0680",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 117.29,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/tns_main_2f01ab0680.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2024-06-17T10:03:06.120Z",
+                    "updatedAt": "2024-06-17T10:03:06.120Z"
+                  }
+                }
+              }
+            },
+            {
+              "id": 19,
+              "title": "DAR Team",
+              "description": "Площадка для профессионального роста и подготовки казахстанских бойцов к мировой арене",
+              "url": "https://dar-team.kz/",
+              "insta_url": null,
+              "telegram_url": null,
+              "facebook_url": null,
+              "youtube_url": null,
+              "slider_description": "Площадка для профессионального роста и подготовки казахстанских бойцов к мировой арене",
+              "slider_url_title": "dar-team.kz/",
+              "slider_logo": {
+                "data": {
+                  "id": 100,
+                  "attributes": {
+                    "name": "darteam-logo.png",
+                    "alternativeText": "darteam-logo.png",
+                    "caption": "darteam-logo.png",
+                    "width": 225,
+                    "height": 91,
+                    "formats": {
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_darteam_logo_400f2e5d63.png",
+                        "hash": "xsmall_darteam_logo_400f2e5d63",
+                        "mime": "image/png",
+                        "name": "xsmall_darteam-logo.png",
+                        "path": null,
+                        "size": 1.67,
+                        "width": 64,
+                        "height": 26
+                      }
+                    },
+                    "hash": "darteam_logo_400f2e5d63",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.89,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/darteam_logo_400f2e5d63.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2024-06-17T10:17:03.983Z",
+                    "updatedAt": "2024-06-17T10:17:03.983Z"
+                  }
+                }
+              },
+              "slider_banner": {
+                "data": {
+                  "id": 101,
+                  "attributes": {
+                    "name": "darteam.png",
+                    "alternativeText": "darteam.png",
+                    "caption": "darteam.png",
+                    "width": 630,
+                    "height": 499,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/small_darteam_0c24709144.png",
+                        "hash": "small_darteam_0c24709144",
+                        "mime": "image/png",
+                        "name": "small_darteam.png",
+                        "path": null,
+                        "size": 238.96,
+                        "width": 500,
+                        "height": 396
+                      },
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_darteam_0c24709144.png",
+                        "hash": "xsmall_darteam_0c24709144",
+                        "mime": "image/png",
+                        "name": "xsmall_darteam.png",
+                        "path": null,
+                        "size": 6.59,
+                        "width": 64,
+                        "height": 51
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/thumbnail_darteam_0c24709144.png",
+                        "hash": "thumbnail_darteam_0c24709144",
+                        "mime": "image/png",
+                        "name": "thumbnail_darteam.png",
+                        "path": null,
+                        "size": 41.64,
+                        "width": 197,
+                        "height": 156
+                      }
+                    },
+                    "hash": "darteam_0c24709144",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 58.87,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/darteam_0c24709144.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2024-06-17T10:17:06.387Z",
+                    "updatedAt": "2024-06-17T10:17:06.387Z"
+                  }
+                }
+              },
+              "logo": {
+                "data": {
+                  "id": 99,
+                  "attributes": {
+                    "name": "darteam-logo-dark.png",
+                    "alternativeText": "darteam-logo-dark.png",
+                    "caption": "darteam-logo-dark.png",
+                    "width": 225,
+                    "height": 91,
+                    "formats": {
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_darteam_logo_dark_4747675b33.png",
+                        "hash": "xsmall_darteam_logo_dark_4747675b33",
+                        "mime": "image/png",
+                        "name": "xsmall_darteam-logo-dark.png",
+                        "path": null,
+                        "size": 2.27,
+                        "width": 64,
+                        "height": 26
+                      }
+                    },
+                    "hash": "darteam_logo_dark_4747675b33",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 1.87,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/darteam_logo_dark_4747675b33.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2024-06-17T10:17:03.885Z",
+                    "updatedAt": "2024-06-17T10:17:03.885Z"
+                  }
+                }
+              },
+              "banner": {
+                "data": {
+                  "id": 102,
+                  "attributes": {
+                    "name": "darteam-main.png",
+                    "alternativeText": "darteam-main.png",
+                    "caption": "darteam-main.png",
+                    "width": 572,
+                    "height": 425,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/small_darteam_main_ef0916d014.png",
+                        "hash": "small_darteam_main_ef0916d014",
+                        "mime": "image/png",
+                        "name": "small_darteam-main.png",
+                        "path": null,
+                        "size": 273.31,
+                        "width": 500,
+                        "height": 372
+                      },
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_darteam_main_ef0916d014.png",
+                        "hash": "xsmall_darteam_main_ef0916d014",
+                        "mime": "image/png",
+                        "name": "xsmall_darteam-main.png",
+                        "path": null,
+                        "size": 8.31,
+                        "width": 64,
+                        "height": 47
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/thumbnail_darteam_main_ef0916d014.png",
+                        "hash": "thumbnail_darteam_main_ef0916d014",
+                        "mime": "image/png",
+                        "name": "thumbnail_darteam-main.png",
+                        "path": null,
+                        "size": 60.04,
+                        "width": 210,
+                        "height": 156
+                      }
+                    },
+                    "hash": "darteam_main_ef0916d014",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 70.15,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/darteam_main_ef0916d014.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2024-06-17T10:17:06.809Z",
+                    "updatedAt": "2024-06-17T10:17:06.809Z"
+                  }
+                }
+              }
+            },
+            {
+              "id": 22,
+              "title": "QAZCODE Игровая платформа",
+              "description": "Улучшенный клиентский опыт за счет предоставления развлекательного игрового контента в различных жанрах.",
+              "url": "https://qazcode.com/",
+              "insta_url": null,
+              "telegram_url": null,
+              "facebook_url": null,
+              "youtube_url": null,
+              "slider_description": "Улучшенный клиентский опыт за счет предоставления развлекательного игрового контента в различных жанрах.",
+              "slider_url_title": "https://qazcode.com/",
+              "slider_logo": {
+                "data": {
+                  "id": 107,
+                  "attributes": {
+                    "name": "logo-slider.png",
+                    "alternativeText": "logo-slider.png",
+                    "caption": "logo-slider.png",
+                    "width": 218,
+                    "height": 30,
+                    "formats": {
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_logo_slider_128102f611.png",
+                        "hash": "xsmall_logo_slider_128102f611",
+                        "mime": "image/png",
+                        "name": "xsmall_logo-slider.png",
+                        "path": null,
+                        "size": 0.87,
+                        "width": 64,
+                        "height": 9
+                      }
+                    },
+                    "hash": "logo_slider_128102f611",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.73,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/logo_slider_128102f611.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2025-01-23T05:25:54.825Z",
+                    "updatedAt": "2025-01-23T05:25:54.825Z"
+                  }
+                }
+              },
+              "slider_banner": {
+                "data": {
+                  "id": 104,
+                  "attributes": {
+                    "name": "game.png",
+                    "alternativeText": "game.png",
+                    "caption": "game.png",
+                    "width": 630,
+                    "height": 498,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/small_game_02a20734c2.png",
+                        "hash": "small_game_02a20734c2",
+                        "mime": "image/png",
+                        "name": "small_game.png",
+                        "path": null,
+                        "size": 61.88,
+                        "width": 500,
+                        "height": 395
+                      },
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_game_02a20734c2.png",
+                        "hash": "xsmall_game_02a20734c2",
+                        "mime": "image/png",
+                        "name": "xsmall_game.png",
+                        "path": null,
+                        "size": 3.75,
+                        "width": 64,
+                        "height": 51
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/thumbnail_game_02a20734c2.png",
+                        "hash": "thumbnail_game_02a20734c2",
+                        "mime": "image/png",
+                        "name": "thumbnail_game.png",
+                        "path": null,
+                        "size": 17.28,
+                        "width": 197,
+                        "height": 156
+                      }
+                    },
+                    "hash": "game_02a20734c2",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 15.59,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/game_02a20734c2.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2025-01-23T05:24:21.121Z",
+                    "updatedAt": "2025-01-23T05:24:21.121Z"
+                  }
+                }
+              },
+              "logo": {
+                "data": {
+                  "id": 106,
+                  "attributes": {
+                    "name": "qazcode_logo_black.png",
+                    "alternativeText": "qazcode_logo_black.png",
+                    "caption": "qazcode_logo_black.png",
+                    "width": 134,
+                    "height": 142,
+                    "formats": {
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_qazcode_logo_black_ed8a12a65d.png",
+                        "hash": "xsmall_qazcode_logo_black_ed8a12a65d",
+                        "mime": "image/png",
+                        "name": "xsmall_qazcode_logo_black.png",
+                        "path": null,
+                        "size": 4.54,
+                        "width": 60,
+                        "height": 64
+                      }
+                    },
+                    "hash": "qazcode_logo_black_ed8a12a65d",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.33,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/qazcode_logo_black_ed8a12a65d.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2025-01-23T05:24:39.252Z",
+                    "updatedAt": "2025-01-23T05:24:39.252Z"
+                  }
+                }
+              },
+              "banner": {
+                "data": {
+                  "id": 103,
+                  "attributes": {
+                    "name": "game-big.png",
+                    "alternativeText": "game-big.png",
+                    "caption": "game-big.png",
+                    "width": 572,
+                    "height": 425,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/small_game_big_2aaf09b038.png",
+                        "hash": "small_game_big_2aaf09b038",
+                        "mime": "image/png",
+                        "name": "small_game-big.png",
+                        "path": null,
+                        "size": 79.35,
+                        "width": 500,
+                        "height": 372
+                      },
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_game_big_2aaf09b038.png",
+                        "hash": "xsmall_game_big_2aaf09b038",
+                        "mime": "image/png",
+                        "name": "xsmall_game-big.png",
+                        "path": null,
+                        "size": 4.21,
+                        "width": 64,
+                        "height": 47
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/thumbnail_game_big_2aaf09b038.png",
+                        "hash": "thumbnail_game_big_2aaf09b038",
+                        "mime": "image/png",
+                        "name": "thumbnail_game-big.png",
+                        "path": null,
+                        "size": 23.67,
+                        "width": 210,
+                        "height": 156
+                      }
+                    },
+                    "hash": "game_big_2aaf09b038",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 15.73,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/game_big_2aaf09b038.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2025-01-23T05:24:20.921Z",
+                    "updatedAt": "2025-01-23T05:24:20.921Z"
+                  }
+                }
+              }
+            },
+            {
+              "id": 23,
+              "title": "QAZCODE ИИ-решения",
+              "description": "Чат-бот с ИИ: обеспечивает точные ответы с учетом контекста.\nСобственная языковая модель KazLLM: поддерживает казахский, русский, английский, турецкий языки для таких задач, как ответы на вопросы и создание контента.",
+              "url": "https://qazcode.com/",
+              "insta_url": null,
+              "telegram_url": null,
+              "facebook_url": null,
+              "youtube_url": null,
+              "slider_description": "Чат-бот с ИИ: обеспечивает точные ответы с учетом контекста.",
+              "slider_url_title": "https://qazcode.com/",
+              "slider_logo": {
+                "data": {
+                  "id": 107,
+                  "attributes": {
+                    "name": "logo-slider.png",
+                    "alternativeText": "logo-slider.png",
+                    "caption": "logo-slider.png",
+                    "width": 218,
+                    "height": 30,
+                    "formats": {
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_logo_slider_128102f611.png",
+                        "hash": "xsmall_logo_slider_128102f611",
+                        "mime": "image/png",
+                        "name": "xsmall_logo-slider.png",
+                        "path": null,
+                        "size": 0.87,
+                        "width": 64,
+                        "height": 9
+                      }
+                    },
+                    "hash": "logo_slider_128102f611",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.73,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/logo_slider_128102f611.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2025-01-23T05:25:54.825Z",
+                    "updatedAt": "2025-01-23T05:25:54.825Z"
+                  }
+                }
+              },
+              "slider_banner": {
+                "data": {
+                  "id": 108,
+                  "attributes": {
+                    "name": "ai.png",
+                    "alternativeText": "ai.png",
+                    "caption": "ai.png",
+                    "width": 630,
+                    "height": 498,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/small_ai_782b878cfc.png",
+                        "hash": "small_ai_782b878cfc",
+                        "mime": "image/png",
+                        "name": "small_ai.png",
+                        "path": null,
+                        "size": 38.38,
+                        "width": 500,
+                        "height": 395
+                      },
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_ai_782b878cfc.png",
+                        "hash": "xsmall_ai_782b878cfc",
+                        "mime": "image/png",
+                        "name": "xsmall_ai.png",
+                        "path": null,
+                        "size": 2.06,
+                        "width": 64,
+                        "height": 51
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/thumbnail_ai_782b878cfc.png",
+                        "hash": "thumbnail_ai_782b878cfc",
+                        "mime": "image/png",
+                        "name": "thumbnail_ai.png",
+                        "path": null,
+                        "size": 8.88,
+                        "width": 197,
+                        "height": 156
+                      }
+                    },
+                    "hash": "ai_782b878cfc",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 9.34,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/ai_782b878cfc.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2025-01-23T05:59:05.376Z",
+                    "updatedAt": "2025-01-23T05:59:05.376Z"
+                  }
+                }
+              },
+              "logo": {
+                "data": {
+                  "id": 106,
+                  "attributes": {
+                    "name": "qazcode_logo_black.png",
+                    "alternativeText": "qazcode_logo_black.png",
+                    "caption": "qazcode_logo_black.png",
+                    "width": 134,
+                    "height": 142,
+                    "formats": {
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_qazcode_logo_black_ed8a12a65d.png",
+                        "hash": "xsmall_qazcode_logo_black_ed8a12a65d",
+                        "mime": "image/png",
+                        "name": "xsmall_qazcode_logo_black.png",
+                        "path": null,
+                        "size": 4.54,
+                        "width": 60,
+                        "height": 64
+                      }
+                    },
+                    "hash": "qazcode_logo_black_ed8a12a65d",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.33,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/qazcode_logo_black_ed8a12a65d.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2025-01-23T05:24:39.252Z",
+                    "updatedAt": "2025-01-23T05:24:39.252Z"
+                  }
+                }
+              },
+              "banner": {
+                "data": {
+                  "id": 109,
+                  "attributes": {
+                    "name": "ai-big.png",
+                    "alternativeText": "ai-big.png",
+                    "caption": "ai-big.png",
+                    "width": 572,
+                    "height": 425,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/small_ai_big_8b3e1fbac0.png",
+                        "hash": "small_ai_big_8b3e1fbac0",
+                        "mime": "image/png",
+                        "name": "small_ai-big.png",
+                        "path": null,
+                        "size": 44.45,
+                        "width": 500,
+                        "height": 372
+                      },
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_ai_big_8b3e1fbac0.png",
+                        "hash": "xsmall_ai_big_8b3e1fbac0",
+                        "mime": "image/png",
+                        "name": "xsmall_ai-big.png",
+                        "path": null,
+                        "size": 3.07,
+                        "width": 64,
+                        "height": 47
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/thumbnail_ai_big_8b3e1fbac0.png",
+                        "hash": "thumbnail_ai_big_8b3e1fbac0",
+                        "mime": "image/png",
+                        "name": "thumbnail_ai-big.png",
+                        "path": null,
+                        "size": 13.03,
+                        "width": 210,
+                        "height": 156
+                      }
+                    },
+                    "hash": "ai_big_8b3e1fbac0",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 9.32,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/ai_big_8b3e1fbac0.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2025-01-23T05:59:05.842Z",
+                    "updatedAt": "2025-01-23T05:59:05.842Z"
+                  }
+                }
+              }
+            },
+            {
+              "id": 24,
+              "title": "QAZCODE Награды",
+              "description": "Инструмент с геймификацией, для повышения вовлеченности пользователей, привлечения клиентов и углубления знаний о компании.",
+              "url": "https://qazcode.com/",
+              "insta_url": null,
+              "telegram_url": null,
+              "facebook_url": null,
+              "youtube_url": null,
+              "slider_description": "Инструмент с геймификацией, для повышения вовлеченности пользователей, привлечения клиентов и углубления знаний \nо компании.",
+              "slider_url_title": "https://qazcode.com/",
+              "slider_logo": {
+                "data": {
+                  "id": 107,
+                  "attributes": {
+                    "name": "logo-slider.png",
+                    "alternativeText": "logo-slider.png",
+                    "caption": "logo-slider.png",
+                    "width": 218,
+                    "height": 30,
+                    "formats": {
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_logo_slider_128102f611.png",
+                        "hash": "xsmall_logo_slider_128102f611",
+                        "mime": "image/png",
+                        "name": "xsmall_logo-slider.png",
+                        "path": null,
+                        "size": 0.87,
+                        "width": 64,
+                        "height": 9
+                      }
+                    },
+                    "hash": "logo_slider_128102f611",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 0.73,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/logo_slider_128102f611.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2025-01-23T05:25:54.825Z",
+                    "updatedAt": "2025-01-23T05:25:54.825Z"
+                  }
+                }
+              },
+              "slider_banner": {
+                "data": {
+                  "id": 111,
+                  "attributes": {
+                    "name": "awards.png",
+                    "alternativeText": "awards.png",
+                    "caption": "awards.png",
+                    "width": 630,
+                    "height": 498,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/small_awards_416c43e3b6.png",
+                        "hash": "small_awards_416c43e3b6",
+                        "mime": "image/png",
+                        "name": "small_awards.png",
+                        "path": null,
+                        "size": 66.33,
+                        "width": 500,
+                        "height": 395
+                      },
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_awards_416c43e3b6.png",
+                        "hash": "xsmall_awards_416c43e3b6",
+                        "mime": "image/png",
+                        "name": "xsmall_awards.png",
+                        "path": null,
+                        "size": 2.79,
+                        "width": 64,
+                        "height": 51
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/thumbnail_awards_416c43e3b6.png",
+                        "hash": "thumbnail_awards_416c43e3b6",
+                        "mime": "image/png",
+                        "name": "thumbnail_awards.png",
+                        "path": null,
+                        "size": 14.35,
+                        "width": 197,
+                        "height": 156
+                      }
+                    },
+                    "hash": "awards_416c43e3b6",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 17.68,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/awards_416c43e3b6.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2025-01-23T06:00:36.887Z",
+                    "updatedAt": "2025-01-23T06:00:36.887Z"
+                  }
+                }
+              },
+              "logo": {
+                "data": {
+                  "id": 106,
+                  "attributes": {
+                    "name": "qazcode_logo_black.png",
+                    "alternativeText": "qazcode_logo_black.png",
+                    "caption": "qazcode_logo_black.png",
+                    "width": 134,
+                    "height": 142,
+                    "formats": {
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_qazcode_logo_black_ed8a12a65d.png",
+                        "hash": "xsmall_qazcode_logo_black_ed8a12a65d",
+                        "mime": "image/png",
+                        "name": "xsmall_qazcode_logo_black.png",
+                        "path": null,
+                        "size": 4.54,
+                        "width": 60,
+                        "height": 64
+                      }
+                    },
+                    "hash": "qazcode_logo_black_ed8a12a65d",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 2.33,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/qazcode_logo_black_ed8a12a65d.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2025-01-23T05:24:39.252Z",
+                    "updatedAt": "2025-01-23T05:24:39.252Z"
+                  }
+                }
+              },
+              "banner": {
+                "data": {
+                  "id": 110,
+                  "attributes": {
+                    "name": "awards-big.png",
+                    "alternativeText": "awards-big.png",
+                    "caption": "awards-big.png",
+                    "width": 572,
+                    "height": 425,
+                    "formats": {
+                      "small": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/small_awards_big_5fd85d874a.png",
+                        "hash": "small_awards_big_5fd85d874a",
+                        "mime": "image/png",
+                        "name": "small_awards-big.png",
+                        "path": null,
+                        "size": 77.41,
+                        "width": 500,
+                        "height": 372
+                      },
+                      "xsmall": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/xsmall_awards_big_5fd85d874a.png",
+                        "hash": "xsmall_awards_big_5fd85d874a",
+                        "mime": "image/png",
+                        "name": "xsmall_awards-big.png",
+                        "path": null,
+                        "size": 3.92,
+                        "width": 64,
+                        "height": 47
+                      },
+                      "thumbnail": {
+                        "ext": ".png",
+                        "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/thumbnail_awards_big_5fd85d874a.png",
+                        "hash": "thumbnail_awards_big_5fd85d874a",
+                        "mime": "image/png",
+                        "name": "thumbnail_awards-big.png",
+                        "path": null,
+                        "size": 21,
+                        "width": 210,
+                        "height": 156
+                      }
+                    },
+                    "hash": "awards_big_5fd85d874a",
+                    "ext": ".png",
+                    "mime": "image/png",
+                    "size": 16.76,
+                    "url": "https://dev-dar-cms-uploads.s3.eu-west-1.amazonaws.com/awards_big_5fd85d874a.png",
+                    "previewUrl": null,
+                    "provider": "aws-s3",
+                    "provider_metadata": null,
+                    "createdAt": "2025-01-23T06:00:36.811Z",
+                    "updatedAt": "2025-01-23T06:00:36.811Z"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "news": [
+        {
+          "id": 30342,
+          "slug": "tns-plus-voshel-v-sostav-gruppy-kompanij-dar",
+          "title": {
+            "rendered": "TNS Plus вошел в состав группы компаний DAR"
+          },
+          "content": {
+            "rendered": "\n<p class=\"wp-block-paragraph\">Группа DAR завершила сделку по покупке магистрального телеком-оператора TNS Plus у VEON.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Компания является ключевым игроком в сегменте международного транзита: управляет более 14 тыс. км оптоволоконной сети, имеет 28 международных стыковок и узлы в Москве, Франкфурте и Гонконге, обеспечивая передачу трафика между Европой и Азией.После сделки Beeline Казахстан сохранит доступ к инфраструктуре TNS+ через долгосрочные контракты, что обеспечит стабильность услуг и качество клиентского опыта.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Для DAR приобретение оператора отражает стратегическую ставку на транзитный потенциал Казахстана. Компания планирует развивать международное присутствие, инвестировать в телеком-инфраструктуру и усиливать позиции TNS+ как ключевого игрока в передаче данных между регионами.</p>\n",
+            "protected": false
+          },
+          "_links": {
+            "wp:featuredmedia": [
+              {
+                "embeddable": true,
+                "href": "https://5q.media/wp-json/wp/v2/media/30343"
+              }
+            ]
+          },
+          "_embedded": {
+            "wp:featuredmedia": [
+              {
+                "id": 30343,
+                "date": "2026-11-16T14:16:09",
+                "slug": "v3-hero-about-mobile-1",
+                "type": "attachment",
+                "link": "https://5q.media/dario/tns-plus-voshel-v-sostav-gruppy-kompanij-dar/v3-hero-about-mobile-1/",
+                "title": {
+                  "rendered": "v3-hero-about-mobile (1)"
+                },
+                "author": 38,
+                "featured_media": 0,
+                "jetpack_sharing_enabled": true,
+                "caption": {
+                  "rendered": ""
+                },
+                "alt_text": "",
+                "media_type": "image",
+                "mime_type": "image/png",
+                "media_details": {
+                  "width": 1200,
+                  "height": 900,
+                  "file": "2026/11/v3-hero-about-mobile-1.png",
+                  "filesize": 561070,
+                  "sizes": {
+                    "medium": {
+                      "file": "v3-hero-about-mobile-1-300x225.png",
+                      "width": 300,
+                      "height": 225,
+                      "filesize": 52632,
+                      "mime_type": "image/png",
+                      "source_url": "https://5q.media/wp-content/uploads/2026/11/v3-hero-about-mobile-1-300x225.png"
+                    },
+                    "large": {
+                      "file": "v3-hero-about-mobile-1-1024x768.png",
+                      "width": 1024,
+                      "height": 768,
+                      "filesize": 490914,
+                      "mime_type": "image/png",
+                      "source_url": "https://5q.media/wp-content/uploads/2026/11/v3-hero-about-mobile-1-1024x768.png"
+                    },
+                    "thumbnail": {
+                      "file": "v3-hero-about-mobile-1-150x150.png",
+                      "width": 150,
+                      "height": 150,
+                      "filesize": 19989,
+                      "mime_type": "image/png",
+                      "source_url": "https://5q.media/wp-content/uploads/2026/11/v3-hero-about-mobile-1-150x150.png"
+                    },
+                    "medium_large": {
+                      "file": "v3-hero-about-mobile-1-768x576.png",
+                      "width": 768,
+                      "height": 576,
+                      "filesize": 281501,
+                      "mime_type": "image/png",
+                      "source_url": "https://5q.media/wp-content/uploads/2026/11/v3-hero-about-mobile-1-768x576.png"
+                    },
+                    "post-thumbnail": {
+                      "file": "v3-hero-about-mobile-1-650x488.png",
+                      "width": 650,
+                      "height": 488,
+                      "filesize": 205932,
+                      "mime_type": "image/png",
+                      "source_url": "https://5q.media/wp-content/uploads/2026/11/v3-hero-about-mobile-1-650x488.png"
+                    },
+                    "facebook_og": {
+                      "file": "v3-hero-about-mobile-1-1200x630.png",
+                      "width": 1200,
+                      "height": 630,
+                      "filesize": 501369,
+                      "mime_type": "image/png",
+                      "source_url": "https://5q.media/wp-content/uploads/2026/11/v3-hero-about-mobile-1-1200x630.png"
+                    },
+                    "plate_default": {
+                      "file": "v3-hero-about-mobile-1-828x512.png",
+                      "width": 828,
+                      "height": 512,
+                      "filesize": 285582,
+                      "mime_type": "image/png",
+                      "source_url": "https://5q.media/wp-content/uploads/2026/11/v3-hero-about-mobile-1-828x512.png"
+                    },
+                    "plate_interview_slider": {
+                      "file": "v3-hero-about-mobile-1-800x900.png",
+                      "width": 800,
+                      "height": 900,
+                      "filesize": 451620,
+                      "mime_type": "image/png",
+                      "source_url": "https://5q.media/wp-content/uploads/2026/11/v3-hero-about-mobile-1-800x900.png"
+                    },
+                    "plate_video_slider": {
+                      "file": "v3-hero-about-mobile-1-1200x760.png",
+                      "width": 1200,
+                      "height": 760,
+                      "filesize": 579217,
+                      "mime_type": "image/png",
+                      "source_url": "https://5q.media/wp-content/uploads/2026/11/v3-hero-about-mobile-1-1200x760.png"
+                    },
+                    "plate_related_posts": {
+                      "file": "v3-hero-about-mobile-1-582x360.png",
+                      "width": 582,
+                      "height": 360,
+                      "filesize": 148653,
+                      "mime_type": "image/png",
+                      "source_url": "https://5q.media/wp-content/uploads/2026/11/v3-hero-about-mobile-1-582x360.png"
+                    },
+                    "plate_news_home": {
+                      "file": "v3-hero-about-mobile-1-914x580.png",
+                      "width": 914,
+                      "height": 580,
+                      "filesize": 351443,
+                      "mime_type": "image/png",
+                      "source_url": "https://5q.media/wp-content/uploads/2026/11/v3-hero-about-mobile-1-914x580.png"
+                    },
+                    "related_posts_plate": {
+                      "file": "v3-hero-about-mobile-1-400x260.png",
+                      "width": 400,
+                      "height": 260,
+                      "filesize": 79517,
+                      "mime_type": "image/png",
+                      "source_url": "https://5q.media/wp-content/uploads/2026/11/v3-hero-about-mobile-1-400x260.png"
+                    },
+                    "full": {
+                      "file": "v3-hero-about-mobile-1.png",
+                      "width": 1200,
+                      "height": 900,
+                      "mime_type": "image/png",
+                      "source_url": "https://5q.media/wp-content/uploads/2026/11/v3-hero-about-mobile-1.png"
+                    }
+                  },
+                  "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": [],
+                    "alt": ""
+                  }
+                },
+                "source_url": "https://5q.media/wp-content/uploads/2026/11/v3-hero-about-mobile-1.png",
+                "_links": {
+                  "self": [
+                    {
+                      "href": "https://5q.media/wp-json/wp/v2/media/30343",
+                      "targetHints": {
+                        "allow": [
+                          "GET"
+                        ]
+                      }
+                    }
+                  ],
+                  "collection": [
+                    {
+                      "href": "https://5q.media/wp-json/wp/v2/media"
+                    }
+                  ],
+                  "about": [
+                    {
+                      "href": "https://5q.media/wp-json/wp/v2/types/attachment"
+                    }
+                  ],
+                  "author": [
+                    {
+                      "embeddable": true,
+                      "href": "https://5q.media/wp-json/wp/v2/users/38"
+                    }
+                  ],
+                  "replies": [
+                    {
+                      "embeddable": true,
+                      "href": "https://5q.media/wp-json/wp/v2/comments?post=30343"
+                    }
+                  ],
+                  "wp:attached-to": [
+                    {
+                      "embeddable": true,
+                      "post_type": "dario",
+                      "id": 30342,
+                      "href": "https://5q.media/wp-json/wp/v2/dario/30342"
+                    }
+                  ],
+                  "curies": [
+                    {
+                      "name": "wp",
+                      "href": "https://api.w.org/{rel}",
+                      "templated": true
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 28406,
+          "slug": "kompaniya-dar-podelilas-opytom-czifrovizaczii-biznes-proczessov-i-obuchenie-it-kadrov-c-hr-soobshhestvom",
+          "title": {
+            "rendered": "Компания DAR поделилась опытом цифровизации бизнес-процессов и обучения IT-кадров c HR-сообществом"
+          },
+          "content": {
+            "rendered": "\n<p class=\"wp-block-paragraph\">В ноябре в офисе группы компании DAR состоялась тематическая встреча RNS HR Club, посвященная цифровизации HR-процессов, найму и обучению IT-специалистов. В мероприятии приняли участие рекрутеры и менеджеры по кадрам из разных компаний. После приветственных слов для гостей организовали экскурсию по офису и сессии на разные тематики. </p>\n\n\n\n<p class=\"wp-block-paragraph\">Первой по программе выступила операционный директор DAR University Гулиза Булекбаева. Эксперт в сфере образования рассказала, как корпоративный университет помогает решать проблему поиска и найма&nbsp; IT-специалистов для всей группы компаний DAR при помощи цифровых платформ.&nbsp;Также она поделилась&nbsp;опытом в мотивации менторов и дала несколько рекомендаций по выбору поставщиков образовательных услуг.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"683\" src=\"https://5q.media/wp-content/uploads/2023/11/img_5934-1024x683.jpg\" alt=\"\" class=\"wp-image-28410\" srcset=\"https://5q.media/wp-content/uploads/2023/11/img_5934-1024x683.jpg 1024w, https://5q.media/wp-content/uploads/2023/11/img_5934-300x200.jpg 300w, https://5q.media/wp-content/uploads/2023/11/img_5934-768x512.jpg 768w, https://5q.media/wp-content/uploads/2023/11/img_5934-650x433.jpg 650w, https://5q.media/wp-content/uploads/2023/11/img_5934.jpg 1296w\" sizes=\"auto, (max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Следующая тема выступления была посвящена <strong>опыту автоматизации и цифровизации делопроизводства в холдинге. </strong>Старший менеджер по развитию цифровой платформы для бизнеса 5Qit <strong>Ардак Бердыбеков,</strong> рассказал участникам кейс группы компаний DAR. Также он провел чек-ап фасилитацию на тему ключевых блокеров в работе HR-менеджеров. На протяжении всего мероприятия участники также задавали экспертам интересующие вопросы и получили качественный нетворкинг.   </p>\n",
+            "protected": false
+          },
+          "_links": {
+            "wp:featuredmedia": [
+              {
+                "embeddable": true,
+                "href": "https://5q.media/wp-json/wp/v2/media/28407"
+              }
+            ]
+          },
+          "_embedded": {
+            "wp:featuredmedia": [
+              {
+                "id": 28407,
+                "date": "2023-11-16T19:21:07",
+                "slug": "img_6030",
+                "type": "attachment",
+                "link": "https://5q.media/dario/kompaniya-dar-podelilas-opytom-czifrovizaczii-biznes-proczessov-i-obuchenie-it-kadrov-c-hr-soobshhestvom/img_6030/",
+                "title": {
+                  "rendered": "img_6030"
+                },
+                "author": 38,
+                "featured_media": 0,
+                "jetpack_sharing_enabled": true,
+                "caption": {
+                  "rendered": ""
+                },
+                "alt_text": "",
+                "media_type": "image",
+                "mime_type": "image/jpeg",
+                "media_details": {
+                  "width": 1296,
+                  "height": 864,
+                  "file": "2023/11/img_6030.jpg",
+                  "sizes": {
+                    "medium": {
+                      "file": "img_6030-300x200.jpg",
+                      "width": 300,
+                      "height": 200,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/11/img_6030-300x200.jpg"
+                    },
+                    "large": {
+                      "file": "img_6030-1024x683.jpg",
+                      "width": 1024,
+                      "height": 683,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/11/img_6030-1024x683.jpg"
+                    },
+                    "thumbnail": {
+                      "file": "img_6030-150x150.jpg",
+                      "width": 150,
+                      "height": 150,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/11/img_6030-150x150.jpg"
+                    },
+                    "medium_large": {
+                      "file": "img_6030-768x512.jpg",
+                      "width": 768,
+                      "height": 512,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/11/img_6030-768x512.jpg"
+                    },
+                    "post-thumbnail": {
+                      "file": "img_6030-650x433.jpg",
+                      "width": 650,
+                      "height": 433,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/11/img_6030-650x433.jpg"
+                    },
+                    "facebook_og": {
+                      "file": "img_6030-1200x630.jpg",
+                      "width": 1200,
+                      "height": 630,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/11/img_6030-1200x630.jpg"
+                    },
+                    "plate_default": {
+                      "file": "img_6030-828x512.jpg",
+                      "width": 828,
+                      "height": 512,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/11/img_6030-828x512.jpg"
+                    },
+                    "plate_interview_slider": {
+                      "file": "img_6030-800x864.jpg",
+                      "width": 800,
+                      "height": 864,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/11/img_6030-800x864.jpg"
+                    },
+                    "plate_interview_slider_large": {
+                      "file": "img_6030-1250x864.jpg",
+                      "width": 1250,
+                      "height": 864,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/11/img_6030-1250x864.jpg"
+                    },
+                    "plate_video_slider": {
+                      "file": "img_6030-1250x760.jpg",
+                      "width": 1250,
+                      "height": 760,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/11/img_6030-1250x760.jpg"
+                    },
+                    "plate_related_posts": {
+                      "file": "img_6030-582x360.jpg",
+                      "width": 582,
+                      "height": 360,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/11/img_6030-582x360.jpg"
+                    },
+                    "plate_news_home": {
+                      "file": "img_6030-914x580.jpg",
+                      "width": 914,
+                      "height": 580,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/11/img_6030-914x580.jpg"
+                    },
+                    "related_posts_plate": {
+                      "file": "img_6030-400x260.jpg",
+                      "width": 400,
+                      "height": 260,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/11/img_6030-400x260.jpg"
+                    },
+                    "full": {
+                      "file": "img_6030.jpg",
+                      "width": 1296,
+                      "height": 864,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/11/img_6030.jpg"
+                    }
+                  },
+                  "image_meta": {
+                    "aperture": "4",
+                    "credit": "",
+                    "camera": "Canon EOS 5D Mark II",
+                    "caption": "",
+                    "created_timestamp": "1699527822",
+                    "copyright": "",
+                    "focal_length": "24",
+                    "iso": "1000",
+                    "shutter_speed": "0.01",
+                    "title": "",
+                    "orientation": "1",
+                    "keywords": []
+                  }
+                },
+                "source_url": "https://5q.media/wp-content/uploads/2023/11/img_6030.jpg",
+                "_links": {
+                  "self": [
+                    {
+                      "href": "https://5q.media/wp-json/wp/v2/media/28407",
+                      "targetHints": {
+                        "allow": [
+                          "GET"
+                        ]
+                      }
+                    }
+                  ],
+                  "collection": [
+                    {
+                      "href": "https://5q.media/wp-json/wp/v2/media"
+                    }
+                  ],
+                  "about": [
+                    {
+                      "href": "https://5q.media/wp-json/wp/v2/types/attachment"
+                    }
+                  ],
+                  "author": [
+                    {
+                      "embeddable": true,
+                      "href": "https://5q.media/wp-json/wp/v2/users/38"
+                    }
+                  ],
+                  "replies": [
+                    {
+                      "embeddable": true,
+                      "href": "https://5q.media/wp-json/wp/v2/comments?post=28407"
+                    }
+                  ],
+                  "wp:attached-to": [
+                    {
+                      "embeddable": true,
+                      "post_type": "dario",
+                      "id": 28406,
+                      "href": "https://5q.media/wp-json/wp/v2/dario/28406"
+                    }
+                  ],
+                  "curies": [
+                    {
+                      "name": "wp",
+                      "href": "https://api.w.org/{rel}",
+                      "templated": true
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 28189,
+          "slug": "dar-vydal-sportivnye-granty-na-30-mln-tenge",
+          "title": {
+            "rendered": "DAR выдал спортивные гранты на 30 млн тенге"
+          },
+          "content": {
+            "rendered": "\n<p class=\"wp-block-paragraph\">20 сентября группа компаний DAR объявила результаты конкурса грантов на развитие спортзалов в разных регионах Казахстана. В этом году пять победителей получили гранты по 6 миллионов тенге каждый на ремонт спортивных залов, а также покупку спортивного инвентаря и оборудования.</p>\n\n\n\n<p class=\"wp-block-paragraph\">В список победителей вошли участники из гг. Кызылорда, Конаев, Актау, а также Алматинской и Жамбылской областей. Их спортзалы ориентированы на контактные виды спорта, будь то грэпплинг, бокс, смешанные единоборства, вольная борьба или панкратион.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"731\" src=\"https://5q.media/wp-content/uploads/2022/12/img_5617-1024x731.jpg\" alt=\"\" class=\"wp-image-26875\" srcset=\"https://5q.media/wp-content/uploads/2022/12/img_5617-1024x731.jpg 1024w, https://5q.media/wp-content/uploads/2022/12/img_5617-300x214.jpg 300w, https://5q.media/wp-content/uploads/2022/12/img_5617-768x549.jpg 768w, https://5q.media/wp-content/uploads/2022/12/img_5617-1536x1097.jpg 1536w, https://5q.media/wp-content/uploads/2022/12/img_5617-2048x1463.jpg 2048w, https://5q.media/wp-content/uploads/2022/12/img_5617-650x464.jpg 650w\" sizes=\"auto, (max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\"><p><em>“DAR развивает спортивное направление с 2014 года, начав с поддержки юношеского рукопашного боя в разных регионах Казахстана. Мы создали команду DAR TEAM, воспитав за это время более 400 юных спортсменов по разным направлениям спорта: рукопашный бой, грэпплинг, жекпе-жек и др. Развивая собственную площадку для профессионального роста казахстанских бойцов, среди которых Шавкат Рахмонов, Асу Алмабаев, Сора Рахмонова, мы также поддерживаем спортивных предпринимателей из разных регионов, где подрастают будущие чемпионы. Главное — дать им необходимые условия и возможности раскрыть свои таланты”,</em> — отметил управляющий партнер и генеральный директор группы компаний DAR Болат Садыкулов.</p></blockquote>\n\n\n\n<p class=\"wp-block-paragraph\">Всего в этом году конкурсная комиссия рассмотрела 31 заявку и при выборе учитывали такие критерии, как наличие спортивной программы, бизнес-плана и необходимых документов. </p>\n\n\n\n<p class=\"wp-block-paragraph\"><em>«С 2012 года я занимаюсь развитием смешанных единоборств, панкратиона, грэпплинга и ММА в Кызылординской области. В нашем регионе контактные виды спорта очень популярны, и молодежь хочет равняться на спортсменов, как в DAR Team. Например, на прошедшем в Атырау Кубке РК наши команды заняли второе место в возрастной группе 12-13 лет, и первое — в группе 16-17 лет. Ребята тренировались в спортзале, открытый при поддержке компании DAR, и на выигранный грант я открою второй зал. Выражаю чрезвычайную благодарность Алидару Булатовичу, который развивает казахстанский спорт и занимается благотворительностью в разных направлениях», — говорит Арман Медельханов.&nbsp;&nbsp;</em></p>\n\n\n\n<p class=\"wp-block-paragraph\">В 2022 году DAR запустил грантовую программу по поддержке спортивных клубов с целью развития массового и детского спорта. По итогам первого отбора гранты получили пять участников из гг. Алматы, Астана, Актобе, Кызылорда и Кокшетау</p>\n",
+            "protected": false
+          },
+          "_links": {
+            "wp:featuredmedia": [
+              {
+                "embeddable": true,
+                "href": "https://5q.media/wp-json/wp/v2/media/28195"
+              }
+            ]
+          },
+          "_embedded": {
+            "wp:featuredmedia": [
+              {
+                "id": 28195,
+                "date": "2023-09-21T15:52:56",
+                "slug": "prateek-katyal-fnmztjegssa-unsplash",
+                "type": "attachment",
+                "link": "https://5q.media/dario/dar-vydal-sportivnye-granty-na-30-mln-tenge/prateek-katyal-fnmztjegssa-unsplash/",
+                "title": {
+                  "rendered": "prateek-katyal-FNMztJegsSA-unsplash"
+                },
+                "author": 38,
+                "featured_media": 0,
+                "jetpack_sharing_enabled": true,
+                "caption": {
+                  "rendered": ""
+                },
+                "alt_text": "",
+                "media_type": "image",
+                "mime_type": "image/jpeg",
+                "media_details": {
+                  "width": 2880,
+                  "height": 1920,
+                  "file": "2023/09/prateek-katyal-fnmztjegssa-unsplash-scaled.jpg",
+                  "sizes": {
+                    "medium": {
+                      "file": "prateek-katyal-fnmztjegssa-unsplash-300x200.jpg",
+                      "width": 300,
+                      "height": 200,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/09/prateek-katyal-fnmztjegssa-unsplash-300x200.jpg"
+                    },
+                    "large": {
+                      "file": "prateek-katyal-fnmztjegssa-unsplash-1024x683.jpg",
+                      "width": 1024,
+                      "height": 683,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/09/prateek-katyal-fnmztjegssa-unsplash-1024x683.jpg"
+                    },
+                    "thumbnail": {
+                      "file": "prateek-katyal-fnmztjegssa-unsplash-150x150.jpg",
+                      "width": 150,
+                      "height": 150,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/09/prateek-katyal-fnmztjegssa-unsplash-150x150.jpg"
+                    },
+                    "medium_large": {
+                      "file": "prateek-katyal-fnmztjegssa-unsplash-768x512.jpg",
+                      "width": 768,
+                      "height": 512,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/09/prateek-katyal-fnmztjegssa-unsplash-768x512.jpg"
+                    },
+                    "1536x1536": {
+                      "file": "prateek-katyal-fnmztjegssa-unsplash-1536x1024.jpg",
+                      "width": 1536,
+                      "height": 1024,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/09/prateek-katyal-fnmztjegssa-unsplash-1536x1024.jpg"
+                    },
+                    "2048x2048": {
+                      "file": "prateek-katyal-fnmztjegssa-unsplash-2048x1365.jpg",
+                      "width": 2048,
+                      "height": 1365,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/09/prateek-katyal-fnmztjegssa-unsplash-2048x1365.jpg"
+                    },
+                    "post-thumbnail": {
+                      "file": "prateek-katyal-fnmztjegssa-unsplash-650x433.jpg",
+                      "width": 650,
+                      "height": 433,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/09/prateek-katyal-fnmztjegssa-unsplash-650x433.jpg"
+                    },
+                    "facebook_og": {
+                      "file": "prateek-katyal-fnmztjegssa-unsplash-1200x630.jpg",
+                      "width": 1200,
+                      "height": 630,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/09/prateek-katyal-fnmztjegssa-unsplash-1200x630.jpg"
+                    },
+                    "plate_default": {
+                      "file": "prateek-katyal-fnmztjegssa-unsplash-828x512.jpg",
+                      "width": 828,
+                      "height": 512,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/09/prateek-katyal-fnmztjegssa-unsplash-828x512.jpg"
+                    },
+                    "plate_large": {
+                      "file": "prateek-katyal-fnmztjegssa-unsplash-1900x960.jpg",
+                      "width": 1900,
+                      "height": 960,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/09/prateek-katyal-fnmztjegssa-unsplash-1900x960.jpg"
+                    },
+                    "plate_interview_slider": {
+                      "file": "prateek-katyal-fnmztjegssa-unsplash-800x960.jpg",
+                      "width": 800,
+                      "height": 960,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/09/prateek-katyal-fnmztjegssa-unsplash-800x960.jpg"
+                    },
+                    "plate_interview_slider_large": {
+                      "file": "prateek-katyal-fnmztjegssa-unsplash-1250x1600.jpg",
+                      "width": 1250,
+                      "height": 1600,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/09/prateek-katyal-fnmztjegssa-unsplash-1250x1600.jpg"
+                    },
+                    "plate_video_slider": {
+                      "file": "prateek-katyal-fnmztjegssa-unsplash-1250x760.jpg",
+                      "width": 1250,
+                      "height": 760,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/09/prateek-katyal-fnmztjegssa-unsplash-1250x760.jpg"
+                    },
+                    "plate_related_posts": {
+                      "file": "prateek-katyal-fnmztjegssa-unsplash-582x360.jpg",
+                      "width": 582,
+                      "height": 360,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/09/prateek-katyal-fnmztjegssa-unsplash-582x360.jpg"
+                    },
+                    "plate_news_home": {
+                      "file": "prateek-katyal-fnmztjegssa-unsplash-914x580.jpg",
+                      "width": 914,
+                      "height": 580,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/09/prateek-katyal-fnmztjegssa-unsplash-914x580.jpg"
+                    },
+                    "plate_home_wide": {
+                      "file": "prateek-katyal-fnmztjegssa-unsplash-2880x1100.jpg",
+                      "width": 2880,
+                      "height": 1100,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/09/prateek-katyal-fnmztjegssa-unsplash-2880x1100.jpg"
+                    },
+                    "related_posts_plate": {
+                      "file": "prateek-katyal-fnmztjegssa-unsplash-400x260.jpg",
+                      "width": 400,
+                      "height": 260,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/09/prateek-katyal-fnmztjegssa-unsplash-400x260.jpg"
+                    },
+                    "full": {
+                      "file": "prateek-katyal-fnmztjegssa-unsplash-scaled.jpg",
+                      "width": 2880,
+                      "height": 1920,
+                      "mime_type": "image/jpeg",
+                      "source_url": "https://5q.media/wp-content/uploads/2023/09/prateek-katyal-fnmztjegssa-unsplash-scaled.jpg"
+                    }
+                  },
+                  "image_meta": {
+                    "aperture": "0",
+                    "credit": "",
+                    "camera": "",
+                    "caption": "",
+                    "created_timestamp": "0",
+                    "copyright": "",
+                    "focal_length": "0",
+                    "iso": "0",
+                    "shutter_speed": "0",
+                    "title": "",
+                    "orientation": "0",
+                    "keywords": []
+                  },
+                  "original_image": "prateek-katyal-fnmztjegssa-unsplash.jpg"
+                },
+                "source_url": "https://5q.media/wp-content/uploads/2023/09/prateek-katyal-fnmztjegssa-unsplash-scaled.jpg",
+                "_links": {
+                  "self": [
+                    {
+                      "href": "https://5q.media/wp-json/wp/v2/media/28195",
+                      "targetHints": {
+                        "allow": [
+                          "GET"
+                        ]
+                      }
+                    }
+                  ],
+                  "collection": [
+                    {
+                      "href": "https://5q.media/wp-json/wp/v2/media"
+                    }
+                  ],
+                  "about": [
+                    {
+                      "href": "https://5q.media/wp-json/wp/v2/types/attachment"
+                    }
+                  ],
+                  "author": [
+                    {
+                      "embeddable": true,
+                      "href": "https://5q.media/wp-json/wp/v2/users/38"
+                    }
+                  ],
+                  "replies": [
+                    {
+                      "embeddable": true,
+                      "href": "https://5q.media/wp-json/wp/v2/comments?post=28195"
+                    }
+                  ],
+                  "wp:attached-to": [
+                    {
+                      "embeddable": true,
+                      "post_type": "dario",
+                      "id": 28189,
+                      "href": "https://5q.media/wp-json/wp/v2/dario/28189"
+                    }
+                  ],
+                  "curies": [
+                    {
+                      "name": "wp",
+                      "href": "https://api.w.org/{rel}",
+                      "templated": true
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "__N_SSG": true
+  },
+  "page": "/",
+  "query": {},
+  "buildId": "JyY_P_ODcSk-x-vauNCH_",
+  "isFallback": false,
+  "gsp": true,
+  "scriptLoader": []
+}

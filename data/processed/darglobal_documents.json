@@ -1,0 +1,209 @@
+[
+  {
+    "id": "darglobal_overview_01",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Company Overview",
+    "language": "ru/en",
+    "extracted_at": "2026-11-20T14:16:02.658397+00:00",
+    "content": "Группа DAR (DAR Ecosystem / Группа компаний DAR) – международная экосистема и инвестиционная группа, основанная Алидаром Утемуратовым (Alidar Utemuratov). Организация развивает проекты в сфере цифровизации, IT-образования, телекоммуникаций, финтеха, спорта (единоборств) и искусственного интеллекта. Официальный сайт: https://www.darglobal.com/.",
+    "metadata": {
+      "entity": "DAR Group",
+      "founder": "Алидар Утемуратов (Alidar Utemuratov)",
+      "type": "overview"
+    }
+  },
+  {
+    "id": "darglobal_project_01_naiza",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Projects - Naiza",
+    "language": "ru",
+    "extracted_at": "2026-11-20T14:16:02.658397+00:00",
+    "content": "Проект / Подразделение DAR: Naiza\nОписание: Один из самых крупных \nпромоушенов СНГ, который ведет\nза собой и вдохновляем на подвиги.\n\nNaiza - это спорт, жизнь и зрелищность. Хочешь драться - дерись в ринге!\nОфициальный сайт проекта: https://naiza.tv\nInstagram: https://www.instagram.com/naiza.mma/?hl=ru",
+    "metadata": {
+      "entity": "DAR Group",
+      "project_name": "Naiza",
+      "project_url": "https://naiza.tv",
+      "type": "project_profile"
+    }
+  },
+  {
+    "id": "darglobal_project_02_dar_u",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Projects - DAR U",
+    "language": "ru",
+    "extracted_at": "2026-11-20T14:16:02.658397+00:00",
+    "content": "Проект / Подразделение DAR: DAR U\nОписание: DAR University - это университет нового поколения, где каждый может обучиться востребованной профессии за 5 месяцев с помощью наших менторов - экспертов DAR.\n\nDAR University – это максимум практики и эффективный старт карьеры в IT!\nОфициальный сайт проекта: https://dar.university/\nInstagram: https://www.instagram.com/dar.university/?hl=ru\nTelegram: https://t.me/techozimiz",
+    "metadata": {
+      "entity": "DAR Group",
+      "project_name": "DAR U",
+      "project_url": "https://dar.university/",
+      "type": "project_profile"
+    }
+  },
+  {
+    "id": "darglobal_project_03_darlean",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Projects - Darlean",
+    "language": "ru",
+    "extracted_at": "2026-11-20T14:16:02.658397+00:00",
+    "content": "Проект / Подразделение DAR: Darlean\nОписание: Автоматизируйте управление бизнесом с универсальной платформой \nDarlean\nОфициальный сайт проекта: https://darlean.kz/\nInstagram: https://www.instagram.com/5qit.business/?hl=ru",
+    "metadata": {
+      "entity": "DAR Group",
+      "project_name": "Darlean",
+      "project_url": "https://darlean.kz/",
+      "type": "project_profile"
+    }
+  },
+  {
+    "id": "darglobal_project_04_dossym",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Projects - Dossym",
+    "language": "ru",
+    "extracted_at": "2026-11-20T14:16:02.658397+00:00",
+    "content": "Проект / Подразделение DAR: Dossym\nОписание: Dossym - представляет собой инновационный проект в области FinTech. Наша цель заключается в улучшении удобства и доступности финансовых услуг.\n\nМы предоставляем залоговое финансирование для предпринимателей.\nОфициальный сайт проекта: https://dossym.kz/\nInstagram: https://www.instagram.com/dossymkz/?hl=ru",
+    "metadata": {
+      "entity": "DAR Group",
+      "project_name": "Dossym",
+      "project_url": "https://dossym.kz/",
+      "type": "project_profile"
+    }
+  },
+  {
+    "id": "darglobal_project_05_tns_",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Projects - TNS+",
+    "language": "ru",
+    "extracted_at": "2026-11-20T14:16:02.658397+00:00",
+    "content": "Проект / Подразделение DAR: TNS+\nОписание: Телекоммуникационная компания, предоставляющая интернет, аренду каналов, IPVPN, голосовой трафик и международные каналы связи в Казахстане\nОфициальный сайт проекта: https://tnsplus.kz/",
+    "metadata": {
+      "entity": "DAR Group",
+      "project_name": "TNS+",
+      "project_url": "https://tnsplus.kz/",
+      "type": "project_profile"
+    }
+  },
+  {
+    "id": "darglobal_project_06_dar_team",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Projects - DAR Team",
+    "language": "ru",
+    "extracted_at": "2026-11-20T14:16:02.658397+00:00",
+    "content": "Проект / Подразделение DAR: DAR Team\nОписание: Площадка для профессионального роста и подготовки казахстанских бойцов к мировой арене\nОфициальный сайт проекта: https://dar-team.kz/",
+    "metadata": {
+      "entity": "DAR Group",
+      "project_name": "DAR Team",
+      "project_url": "https://dar-team.kz/",
+      "type": "project_profile"
+    }
+  },
+  {
+    "id": "darglobal_project_07_qazcode________",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Projects - QAZCODE Игровая платформа",
+    "language": "ru",
+    "extracted_at": "2026-11-20T14:16:02.658397+00:00",
+    "content": "Проект / Подразделение DAR: QAZCODE Игровая платформа\nОписание: Улучшенный клиентский опыт за счет предоставления развлекательного игрового контента в различных жанрах.\nОфициальный сайт проекта: https://qazcode.com/",
+    "metadata": {
+      "entity": "DAR Group",
+      "project_name": "QAZCODE Игровая платформа",
+      "project_url": "https://qazcode.com/",
+      "type": "project_profile"
+    }
+  },
+  {
+    "id": "darglobal_project_08_qazcode________",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Projects - QAZCODE ИИ-решения",
+    "language": "ru",
+    "extracted_at": "2026-11-20T14:16:02.658397+00:00",
+    "content": "Проект / Подразделение DAR: QAZCODE ИИ-решения\nОписание: Чат-бот с ИИ: обеспечивает точные ответы с учетом контекста.\nСобственная языковая модель KazLLM: поддерживает казахский, русский, английский, турецкий языки для таких задач, как ответы на вопросы и создание контента.\nОфициальный сайт проекта: https://qazcode.com/",
+    "metadata": {
+      "entity": "DAR Group",
+      "project_name": "QAZCODE ИИ-решения",
+      "project_url": "https://qazcode.com/",
+      "type": "project_profile"
+    }
+  },
+  {
+    "id": "darglobal_project_09_qazcode________",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Projects - QAZCODE Награды",
+    "language": "ru",
+    "extracted_at": "2026-11-20T14:16:02.658397+00:00",
+    "content": "Проект / Подразделение DAR: QAZCODE Награды\nОписание: Инструмент с геймификацией, для повышения вовлеченности пользователей, привлечения клиентов и углубления знаний о компании.\nОфициальный сайт проекта: https://qazcode.com/",
+    "metadata": {
+      "entity": "DAR Group",
+      "project_name": "QAZCODE Награды",
+      "project_url": "https://qazcode.com/",
+      "type": "project_profile"
+    }
+  },
+  {
+    "id": "darglobal_news_01_tns-plus-voshel-v-so",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Corporate News - TNS Plus вошел в состав группы",
+    "language": "ru",
+    "extracted_at": "2026-11-20T14:16:02.658397+00:00",
+    "content": "Новости и корпоративные события DAR Group:\nЗаголовок: TNS Plus вошел в состав группы компаний DAR\nСодержание: Группа DAR завершила сделку по покупке магистрального телеком-оператора TNS Plus у VEON. Компания является ключевым игроком в сегменте международного транзита: управляет более 14 тыс. км оптоволоконной сети, имеет 28 международных стыковок и узлы в Москве, Франкфурте и Гонконге, обеспечивая передачу трафика между Европой и Азией.После сделки Beeline Казахстан сохранит доступ к инфраструктуре TNS+ через долгосрочные контракты, что обеспечит стабильность услуг и качество клиентского опыта. Для DAR приобретение оператора отражает стратегическую ставку на транзитный потенциал Казахстана. Компания планирует развивать международное присутствие, инвестировать в телеком-инфраструктуру и усиливать позиции TNS+ как ключевого игрока в передаче данных между регионами.\nИдентификатор материала: tns-plus-voshel-v-sostav-gruppy-kompanij-dar",
+    "metadata": {
+      "entity": "DAR Group",
+      "type": "news",
+      "title": "TNS Plus вошел в состав группы компаний DAR",
+      "slug": "tns-plus-voshel-v-sostav-gruppy-kompanij-dar"
+    }
+  },
+  {
+    "id": "darglobal_news_02_kompaniya-dar-podeli",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Corporate News - Компания DAR поделилась опытом",
+    "language": "ru",
+    "extracted_at": "2026-11-20T14:16:02.658397+00:00",
+    "content": "Новости и корпоративные события DAR Group:\nЗаголовок: Компания DAR поделилась опытом цифровизации бизнес-процессов и обучения IT-кадров c HR-сообществом\nСодержание: В ноябре в офисе группы компании DAR состоялась тематическая встреча RNS HR Club, посвященная цифровизации HR-процессов, найму и обучению IT-специалистов. В мероприятии приняли участие рекрутеры и менеджеры по кадрам из разных компаний. После приветственных слов для гостей организовали экскурсию по офису и сессии на разные тематики. Первой по программе выступила операционный директор DAR University Гулиза Булекбаева. Эксперт в сфере образования рассказала, как корпоративный университет помогает решать проблему поиска и найма IT-специалистов для всей группы компаний DAR при помощи цифровых платформ. Также она поделилась опытом в мотивации менторов и дала несколько рекомендаций по выбору поставщиков образовательных услуг. Следующая тема выступления была посвящена опыту автоматизации и цифровизации делопроизводства в холдинге. Старший менеджер по развитию цифровой платформы для бизнеса 5Qit Ардак Бердыбеков, рассказал участникам кейс группы компаний DAR. Также он провел чек-ап фасилитацию на тему ключевых блокеров в работе HR-менеджеров. На протяжении всего мероприятия участники также задавали экспертам интересующие вопросы и получили качественный нетворкинг.\nИдентификатор материала: kompaniya-dar-podelilas-opytom-czifrovizaczii-biznes-proczessov-i-obuchenie-it-kadrov-c-hr-soobshhestvom",
+    "metadata": {
+      "entity": "DAR Group",
+      "type": "news",
+      "title": "Компания DAR поделилась опытом цифровизации бизнес-процессов и обучения IT-кадров c HR-сообществом",
+      "slug": "kompaniya-dar-podelilas-opytom-czifrovizaczii-biznes-proczessov-i-obuchenie-it-kadrov-c-hr-soobshhestvom"
+    }
+  },
+  {
+    "id": "darglobal_news_03_dar-vydal-sportivnye",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Corporate News - DAR выдал спортивные гранты на",
+    "language": "ru",
+    "extracted_at": "2026-11-20T14:16:02.658397+00:00",
+    "content": "Новости и корпоративные события DAR Group:\nЗаголовок: DAR выдал спортивные гранты на 30 млн тенге\nСодержание: 20 сентября группа компаний DAR объявила результаты конкурса грантов на развитие спортзалов в разных регионах Казахстана. В этом году пять победителей получили гранты по 6 миллионов тенге каждый на ремонт спортивных залов, а также покупку спортивного инвентаря и оборудования. В список победителей вошли участники из гг. Кызылорда, Конаев, Актау, а также Алматинской и Жамбылской областей. Их спортзалы ориентированы на контактные виды спорта, будь то грэпплинг, бокс, смешанные единоборства, вольная борьба или панкратион. “DAR развивает спортивное направление с 2014 года, начав с поддержки юношеского рукопашного боя в разных регионах Казахстана. Мы создали команду DAR TEAM, воспитав за это время более 400 юных спортсменов по разным направлениям спорта: рукопашный бой, грэпплинг, жекпе-жек и др. Развивая собственную площадку для профессионального роста казахстанских бойцов, среди которых Шавкат Рахмонов, Асу Алмабаев, Сора Рахмонова, мы также поддерживаем спортивных предпринимателей из разных регионов, где подрастают будущие чемпионы. Главное — дать им необходимые условия и возможности раскрыть свои таланты”, — отметил управляющий партнер и генеральный директор группы компаний DAR Болат Садыкулов. Всего в этом году конкурсная комиссия рассмотрела 31 заявку и при выборе учитывали такие критерии, как наличие спортивной программы, бизнес-плана и необходимых документов. «С 2012 года я занимаюсь развитием смешанных единоборств, панкратиона, грэпплинга и ММА в Кызылординской области. В нашем регионе контактные виды спорта очень популярны, и молодежь хочет равняться на спортсменов, как в DAR Team. Например, на прошедшем в Атырау Кубке РК наши команды заняли второе место в возрастной группе 12-13 лет, и первое — в группе 16-17 лет. Ребята тренировались в спортзале, открытый при поддержке компании DAR, и на выигранный грант я открою второй зал. Выражаю чрезвычайную благодарность Алидару Булатовичу, который развивает казахстанский спорт и занимается благотворительностью в разных направлениях», — говорит Арман Медельханов. В 2022 году DAR запустил грантовую программу по поддержке спортивных клубов с целью развития массового и детского спорта. По итогам первого отбора гранты получили пять участников из гг. Алматы, Астана, Актобе, Кызылорда и Кокшетау\nИдентификатор материала: dar-vydal-sportivnye-granty-na-30-mln-tenge",
+    "metadata": {
+      "entity": "DAR Group",
+      "type": "news",
+      "title": "DAR выдал спортивные гранты на 30 млн тенге",
+      "slug": "dar-vydal-sportivnye-granty-na-30-mln-tenge"
+    }
+  }
+]

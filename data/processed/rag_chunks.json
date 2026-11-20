@@ -1,0 +1,439 @@
+[
+  {
+    "chunk_id": "chunk_001",
+    "doc_id": "darglobal_overview_01",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Company Overview",
+    "language": "ru/en",
+    "text": "Группа DAR (DAR Ecosystem / Группа компаний DAR) – международная экосистема и инвестиционная группа, основанная Алидаром Утемуратовым (Alidar Utemuratov). Организация развивает проекты в сфере цифровизации, IT-образования, телекоммуникаций, финтеха, спорта (единоборств) и искусственного интеллекта. Официальный сайт: https://www.darglobal.com/.",
+    "token_estimate": 36,
+    "metadata": {
+      "entity": "DAR Group",
+      "founder": "Алидар Утемуратов (Alidar Utemuratov)",
+      "type": "overview"
+    }
+  },
+  {
+    "chunk_id": "chunk_002",
+    "doc_id": "darglobal_project_01_naiza",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Projects - Naiza",
+    "language": "ru",
+    "text": "Проект / Подразделение DAR: Naiza\nОписание: Один из самых крупных \nпромоушенов СНГ, который ведет\nза собой и вдохновляем на подвиги.\n\nNaiza - это спорт, жизнь и зрелищность. Хочешь драться - дерись в ринге!\nОфициальный сайт проекта: https://naiza.tv\nInstagram: https://www.instagram.com/naiza.mma/?hl=ru",
+    "token_estimate": 39,
+    "metadata": {
+      "entity": "DAR Group",
+      "project_name": "Naiza",
+      "project_url": "https://naiza.tv",
+      "type": "project_profile"
+    }
+  },
+  {
+    "chunk_id": "chunk_003",
+    "doc_id": "darglobal_project_02_dar_u",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Projects - DAR U",
+    "language": "ru",
+    "text": "Проект / Подразделение DAR: DAR U\nОписание: DAR University - это университет нового поколения, где каждый может обучиться востребованной профессии за 5 месяцев с помощью наших менторов - экспертов DAR.\n\nDAR University – это максимум практики и эффективный старт карьеры в IT!\nОфициальный сайт проекта: https://dar.university/\nInstagram: https://www.instagram.com/dar.university/?hl=ru\nTelegram: https://t.me/techozimiz",
+    "token_estimate": 50,
+    "metadata": {
+      "entity": "DAR Group",
+      "project_name": "DAR U",
+      "project_url": "https://dar.university/",
+      "type": "project_profile"
+    }
+  },
+  {
+    "chunk_id": "chunk_004",
+    "doc_id": "darglobal_project_03_darlean",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Projects - Darlean",
+    "language": "ru",
+    "text": "Проект / Подразделение DAR: Darlean\nОписание: Автоматизируйте управление бизнесом с универсальной платформой \nDarlean\nОфициальный сайт проекта: https://darlean.kz/\nInstagram: https://www.instagram.com/5qit.business/?hl=ru",
+    "token_estimate": 19,
+    "metadata": {
+      "entity": "DAR Group",
+      "project_name": "Darlean",
+      "project_url": "https://darlean.kz/",
+      "type": "project_profile"
+    }
+  },
+  {
+    "chunk_id": "chunk_005",
+    "doc_id": "darglobal_project_04_dossym",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Projects - Dossym",
+    "language": "ru",
+    "text": "Проект / Подразделение DAR: Dossym\nОписание: Dossym - представляет собой инновационный проект в области FinTech. Наша цель заключается в улучшении удобства и доступности финансовых услуг.\n\nМы предоставляем залоговое финансирование для предпринимателей.\nОфициальный сайт проекта: https://dossym.kz/\nInstagram: https://www.instagram.com/dossymkz/?hl=ru",
+    "token_estimate": 37,
+    "metadata": {
+      "entity": "DAR Group",
+      "project_name": "Dossym",
+      "project_url": "https://dossym.kz/",
+      "type": "project_profile"
+    }
+  },
+  {
+    "chunk_id": "chunk_006",
+    "doc_id": "darglobal_project_05_tns_",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Projects - TNS+",
+    "language": "ru",
+    "text": "Проект / Подразделение DAR: TNS+\nОписание: Телекоммуникационная компания, предоставляющая интернет, аренду каналов, IPVPN, голосовой трафик и международные каналы связи в Казахстане\nОфициальный сайт проекта: https://tnsplus.kz/",
+    "token_estimate": 25,
+    "metadata": {
+      "entity": "DAR Group",
+      "project_name": "TNS+",
+      "project_url": "https://tnsplus.kz/",
+      "type": "project_profile"
+    }
+  },
+  {
+    "chunk_id": "chunk_007",
+    "doc_id": "darglobal_project_06_dar_team",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Projects - DAR Team",
+    "language": "ru",
+    "text": "Проект / Подразделение DAR: DAR Team\nОписание: Площадка для профессионального роста и подготовки казахстанских бойцов к мировой арене\nОфициальный сайт проекта: https://dar-team.kz/",
+    "token_estimate": 22,
+    "metadata": {
+      "entity": "DAR Group",
+      "project_name": "DAR Team",
+      "project_url": "https://dar-team.kz/",
+      "type": "project_profile"
+    }
+  },
+  {
+    "chunk_id": "chunk_008",
+    "doc_id": "darglobal_project_07_qazcode________",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Projects - QAZCODE Игровая платформа",
+    "language": "ru",
+    "text": "Проект / Подразделение DAR: QAZCODE Игровая платформа\nОписание: Улучшенный клиентский опыт за счет предоставления развлекательного игрового контента в различных жанрах.\nОфициальный сайт проекта: https://qazcode.com/",
+    "token_estimate": 24,
+    "metadata": {
+      "entity": "DAR Group",
+      "project_name": "QAZCODE Игровая платформа",
+      "project_url": "https://qazcode.com/",
+      "type": "project_profile"
+    }
+  },
+  {
+    "chunk_id": "chunk_009",
+    "doc_id": "darglobal_project_08_qazcode________",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Projects - QAZCODE ИИ-решения",
+    "language": "ru",
+    "text": "Проект / Подразделение DAR: QAZCODE ИИ-решения\nОписание: Чат-бот с ИИ: обеспечивает точные ответы с учетом контекста.\nСобственная языковая модель KazLLM: поддерживает казахский, русский, английский, турецкий языки для таких задач, как ответы на вопросы и создание контента.\nОфициальный сайт проекта: https://qazcode.com/",
+    "token_estimate": 40,
+    "metadata": {
+      "entity": "DAR Group",
+      "project_name": "QAZCODE ИИ-решения",
+      "project_url": "https://qazcode.com/",
+      "type": "project_profile"
+    }
+  },
+  {
+    "chunk_id": "chunk_010",
+    "doc_id": "darglobal_project_09_qazcode________",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Projects - QAZCODE Награды",
+    "language": "ru",
+    "text": "Проект / Подразделение DAR: QAZCODE Награды\nОписание: Инструмент с геймификацией, для повышения вовлеченности пользователей, привлечения клиентов и углубления знаний о компании.\nОфициальный сайт проекта: https://qazcode.com/",
+    "token_estimate": 25,
+    "metadata": {
+      "entity": "DAR Group",
+      "project_name": "QAZCODE Награды",
+      "project_url": "https://qazcode.com/",
+      "type": "project_profile"
+    }
+  },
+  {
+    "chunk_id": "chunk_011",
+    "doc_id": "darglobal_news_01_tns-plus-voshel-v-so",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Corporate News - TNS Plus вошел в состав группы",
+    "language": "ru",
+    "text": "Новости и корпоративные события DAR Group:\nЗаголовок: TNS Plus вошел в состав группы компаний DAR\nСодержание: Группа DAR завершила сделку по покупке магистрального телеком-оператора TNS Plus у VEON. Компания является ключевым игроком в сегменте международного транзита: управляет более 14 тыс. км оптоволоконной сети, имеет 28 международных стыковок и узлы в Москве, Франкфурте и Гонконге, обеспечивая передачу трафика между Европой и Азией.После сделки Beeline Казахстан сохранит доступ к инфраструктуре TNS+ через долгосрочные контракты, что обеспечит стабильность услуг и качество клиентского опыта. Для DAR приобретение оператора отражает стратегическую ставку на транзитный потенциал Казахстана. Компания планирует развивать международное присутствие, инвестировать в телеком-инфраструктуру и усиливать позиции TNS+ как ключевого игрока в передаче данных между регионами.\nИдентификатор материала: tns-plus-voshel-v-sostav-gruppy-kompanij-dar",
+    "token_estimate": 114,
+    "metadata": {
+      "entity": "DAR Group",
+      "type": "news",
+      "title": "TNS Plus вошел в состав группы компаний DAR",
+      "slug": "tns-plus-voshel-v-sostav-gruppy-kompanij-dar"
+    }
+  },
+  {
+    "chunk_id": "chunk_012",
+    "doc_id": "darglobal_news_02_kompaniya-dar-podeli",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Corporate News - Компания DAR поделилась опытом",
+    "language": "ru",
+    "text": "Новости и корпоративные события DAR Group:\nЗаголовок: Компания DAR поделилась опытом цифровизации бизнес-процессов и обучения IT-кадров c HR-сообществом\nСодержание: В ноябре в офисе группы компании DAR состоялась тематическая встреча RNS HR Club, посвященная цифровизации HR-процессов, найму и обучению IT-специалистов. В мероприятии приняли участие рекрутеры и менеджеры по кадрам из разных компаний. После приветственных слов для гостей организовали экскурсию по офису и сессии на разные тематики. Первой по программе выступила операционный директор DAR University Гулиза Булекбаева. Эксперт в сфере образования рассказала, как корпоративный университет помогает решать проблему поиска и найма IT-специалистов для всей группы компаний DAR при помощи цифровых платформ. Также она поделилась опытом в мотивации менторов и дала несколько рекомендаций по выбору поставщиков образовательных услуг. Следующая тема выступления была посвящена опыту автоматизации и цифровизации делопроизводства в холдинге. Старший менеджер по развитию цифровой платформы для бизнеса 5Qit Ардак Бердыбеков, рассказал участникам кейс группы компаний DAR. Также он провел чек-ап фасилитацию на тему ключевых блокеров в работе HR-менеджеров. На протяжении всего мероприятия участники также задавали экспертам интересующие вопросы и получили качественный нетворкинг.",
+    "token_estimate": 170,
+    "metadata": {
+      "entity": "DAR Group",
+      "type": "news",
+      "title": "Компания DAR поделилась опытом цифровизации бизнес-процессов и обучения IT-кадров c HR-сообществом",
+      "slug": "kompaniya-dar-podelilas-opytom-czifrovizaczii-biznes-proczessov-i-obuchenie-it-kadrov-c-hr-soobshhestvom"
+    }
+  },
+  {
+    "chunk_id": "chunk_013",
+    "doc_id": "darglobal_news_02_kompaniya-dar-podeli",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Corporate News - Компания DAR поделилась опытом",
+    "language": "ru",
+    "text": "Идентификатор материала: kompaniya-dar-podelilas-opytom-czifrovizaczii-biznes-proczessov-i-obuchenie-it-kadrov-c-hr-soobshhestvom",
+    "token_estimate": 3,
+    "metadata": {
+      "entity": "DAR Group",
+      "type": "news",
+      "title": "Компания DAR поделилась опытом цифровизации бизнес-процессов и обучения IT-кадров c HR-сообществом",
+      "slug": "kompaniya-dar-podelilas-opytom-czifrovizaczii-biznes-proczessov-i-obuchenie-it-kadrov-c-hr-soobshhestvom"
+    }
+  },
+  {
+    "chunk_id": "chunk_014",
+    "doc_id": "darglobal_news_03_dar-vydal-sportivnye",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Corporate News - DAR выдал спортивные гранты на",
+    "language": "ru",
+    "text": "Новости и корпоративные события DAR Group:\nЗаголовок: DAR выдал спортивные гранты на 30 млн тенге\nСодержание: 20 сентября группа компаний DAR объявила результаты конкурса грантов на развитие спортзалов в разных регионах Казахстана. В этом году пять победителей получили гранты по 6 миллионов тенге каждый на ремонт спортивных залов, а также покупку спортивного инвентаря и оборудования. В список победителей вошли участники из гг. Кызылорда, Конаев, Актау, а также Алматинской и Жамбылской областей. Их спортзалы ориентированы на контактные виды спорта, будь то грэпплинг, бокс, смешанные единоборства, вольная борьба или панкратион. “DAR развивает спортивное направление с 2014 года, начав с поддержки юношеского рукопашного боя в разных регионах Казахстана. Мы создали команду DAR TEAM, воспитав за это время более 400 юных спортсменов по разным направлениям спорта: рукопашный бой, грэпплинг, жекпе-жек и др. Развивая собственную площадку для профессионального роста казахстанских бойцов, среди которых Шавкат Рахмонов, Асу Алмабаев, Сора Рахмонова, мы также поддерживаем спортивных предпринимателей из разных регионов, где подрастают будущие чемпионы. Главное — дать им необходимые условия и возможности раскрыть свои таланты”, — отметил управляющий партнер и генеральный директор группы компаний DAR Болат Садыкулов. Всего в этом году конкурсная комиссия рассмотрела 31 заявку и при выборе учитывали такие критерии, как наличие спортивной программы, бизнес-плана и необходимых документов. «С 2012 года я занимаюсь развитием смешанных единоборств, панкратиона, грэпплинга и ММА в Кызылординской области. В нашем регионе контактные виды спорта очень популярны, и молодежь хочет равняться на спортсменов, как в DAR Team. Например, на прошедшем в Атырау Кубке РК наши команды заняли второе место в возрастной группе 12-13 лет, и первое — в группе 16-17 лет. Ребята тренировались в спортзале, открытый при поддержке компании DAR, и на выигранный грант я открою второй зал. Выражаю чрезвычайную благодарность Алидару Булатовичу, который развивает казахстанский спорт и занимается благотворительностью в разных направлениях», — говорит Арман Медельханов. В 2022 году DAR запустил грантовую программу по поддержке спортивных клубов с целью развития массового и детского спорта. По итогам первого отбора гранты получили пять участников из гг. Алматы, Астана, Актобе, Кызылорда и Кокшетау",
+    "token_estimate": 329,
+    "metadata": {
+      "entity": "DAR Group",
+      "type": "news",
+      "title": "DAR выдал спортивные гранты на 30 млн тенге",
+      "slug": "dar-vydal-sportivnye-granty-na-30-mln-tenge"
+    }
+  },
+  {
+    "chunk_id": "chunk_015",
+    "doc_id": "darglobal_news_03_dar-vydal-sportivnye",
+    "domain": "darglobal.com",
+    "source_url": "https://www.darglobal.com/",
+    "page_title": "Группа DAR – Алидар Утемуратов",
+    "section": "Corporate News - DAR выдал спортивные гранты на",
+    "language": "ru",
+    "text": "Идентификатор материала: dar-vydal-sportivnye-granty-na-30-mln-tenge",
+    "token_estimate": 3,
+    "metadata": {
+      "entity": "DAR Group",
+      "type": "news",
+      "title": "DAR выдал спортивные гранты на 30 млн тенге",
+      "slug": "dar-vydal-sportivnye-granty-na-30-mln-tenge"
+    }
+  },
+  {
+    "chunk_id": "chunk_016",
+    "doc_id": "wasalt_about_01",
+    "domain": "wasalt.sa",
+    "source_url": "https://wasalt.sa/",
+    "page_title": "موقع وصلت | عقارات للبيع و للايجار في السعودية",
+    "section": "About Wasalt (من نحن)",
+    "language": "ar",
+    "text": "عن منصة وصلت (About Wasalt):\nالشعار / العنوان: وصلت - رائدة الخدمات العقارية في السعودية\nالوصف الرئيسي: أول منصة عقار سعودية بالذكاء الاصطناعي!\nالتعريف: وصلت هي منصة عقارية سعودية تُسهّل عليك اكتشاف العقارات، واستكشاف الفرص، والتواصل مع خبراء العقار في جميع أنحاء المملكة. سواء كنت تبحث عن الشراء أو الإيجار أو البيع أو الاستثمار، توفر لك وصلت العقارات المناسبة، والمعلومات، والخدمات في مكان واحد.\nالتصنيف: من نحن\nموقع المنصة: https://wasalt.sa/",
+    "token_estimate": 70,
+    "metadata": {
+      "entity": "Wasalt",
+      "type": "about",
+      "title": "وصلت - رائدة الخدمات العقارية في السعودية",
+      "subtitle": "أول منصة عقار سعودية بالذكاء الاصطناعي!"
+    }
+  },
+  {
+    "chunk_id": "chunk_017",
+    "doc_id": "wasalt_licensors_01",
+    "domain": "wasalt.sa",
+    "source_url": "https://wasalt.sa/",
+    "page_title": "موقع وصلت | عقارات للبيع و للايجار في السعودية",
+    "section": "Licensors & REGA Compliance (التراخيص والجهات المعتمدة)",
+    "language": "ar",
+    "text": "التراخيص والاعتمادات الرسمية والقانونية لمنصة وصلت (Wasalt Legal Licenses & REGA Compliance):\nمنصة وصلت مرخّصة رسمياً ومعتمدة في المملكة العربية السعودية بالبيانات الرسمية التالية:\n- الجهة / الترخيص: منصة مرخصة من الهيئة العامة للعقار\n  التفاصيل: رقم الرخصة: 1200016591\n  رابط وثيقة الترخيص الرسمية: https://cdn.wasalt.sa/license/license-wasalt.pdf\n\n- الجهة / الترخيص: منصة مرخصة من وزارة السياحة\n  التفاصيل: رقم الرخصة: 73106008 | الفئة: حجز وحدات الضيافه | رقم السجل التجاري: 7017195509\n  رابط وثيقة الترخيص الرسمية: https://cdn.wasalt.sa/license/ministryOfTourismPdf.pdf",
+    "token_estimate": 71,
+    "metadata": {
+      "entity": "Wasalt",
+      "type": "licensing",
+      "authority": "الهيئة العامة للعقار (REGA) ووزارة السياحة",
+      "rega_license": "1200016591",
+      "tourism_license": "73106008",
+      "commercial_registration": "7017195509"
+    }
+  },
+  {
+    "chunk_id": "chunk_018",
+    "doc_id": "wasalt_faq_43",
+    "domain": "wasalt.sa",
+    "source_url": "https://wasalt.sa/",
+    "page_title": "موقع وصلت | عقارات للبيع و للايجار في السعودية",
+    "section": "FAQ - ما هي منصة وصلت؟",
+    "language": "ar",
+    "text": "الأسئلة الشائعة حول منصة وصلت (Wasalt FAQ):\nالسؤال (1): ما هي منصة وصلت؟\nالإجابة: وصلت هي منصة رائدة في المملكة العربية السعودية للخدمات العقارية الإلكترونية، مرخّصة من الهيئة العامة للعقار (REGA).\nالمرجع: منصة وصلت - قسم الأسئلة الشائعة (https://wasalt.sa)",
+    "token_estimate": 39,
+    "metadata": {
+      "entity": "Wasalt",
+      "type": "faq",
+      "question_id": 43,
+      "question": "ما هي منصة وصلت؟"
+    }
+  },
+  {
+    "chunk_id": "chunk_019",
+    "doc_id": "wasalt_faq_44",
+    "domain": "wasalt.sa",
+    "source_url": "https://wasalt.sa/",
+    "page_title": "موقع وصلت | عقارات للبيع و للايجار في السعودية",
+    "section": "FAQ - كيف يمكنني الإعلان عن عقاري عل",
+    "language": "ar",
+    "text": "الأسئلة الشائعة حول منصة وصلت (Wasalt FAQ):\nالسؤال (2): كيف يمكنني الإعلان عن عقاري على وصلت؟\nالإجابة: للإعلن عن عقارك على وصلت، قم أولاً بإنشاء حساب، ثم أدخل تفاصيل العقار، وارفع الصور، وحدد السعر. يمكنك تنفيذ ذلك بسهولة عبر تطبيق وصلت، أو تطبيق وصلت أعمال، أو من خلال الموقع الإلكتروني.\nالمرجع: منصة وصلت - قسم الأسئلة الشائعة (https://wasalt.sa)",
+    "token_estimate": 58,
+    "metadata": {
+      "entity": "Wasalt",
+      "type": "faq",
+      "question_id": 44,
+      "question": "كيف يمكنني الإعلان عن عقاري على وصلت؟"
+    }
+  },
+  {
+    "chunk_id": "chunk_020",
+    "doc_id": "wasalt_faq_45",
+    "domain": "wasalt.sa",
+    "source_url": "https://wasalt.sa/",
+    "page_title": "موقع وصلت | عقارات للبيع و للايجار في السعودية",
+    "section": "FAQ - كيف اسجل الدخول إلى حسابي على ",
+    "language": "ar",
+    "text": "الأسئلة الشائعة حول منصة وصلت (Wasalt FAQ):\nالسؤال (3): كيف اسجل الدخول إلى حسابي على وصلت؟\nالإجابة: اضغط على أيقونة الملف الشخصي (أعلى اليسار في الموقع أو عبر القائمة الجانبية في التطبيق)، ثم أدخل رقم الجوال وأكمل عملية التحقق.\nالمرجع: منصة وصلت - قسم الأسئلة الشائعة (https://wasalt.sa)",
+    "token_estimate": 47,
+    "metadata": {
+      "entity": "Wasalt",
+      "type": "faq",
+      "question_id": 45,
+      "question": "كيف اسجل الدخول إلى حسابي على وصلت؟"
+    }
+  },
+  {
+    "chunk_id": "chunk_021",
+    "doc_id": "wasalt_faq_46",
+    "domain": "wasalt.sa",
+    "source_url": "https://wasalt.sa/",
+    "page_title": "موقع وصلت | عقارات للبيع و للايجار في السعودية",
+    "section": "FAQ - ما هي مزادات وصلت؟",
+    "language": "ar",
+    "text": "الأسئلة الشائعة حول منصة وصلت (Wasalt FAQ):\nالسؤال (4): ما هي مزادات وصلت؟\nالإجابة: مزادات وصلت هي خدمة تتيح بيع الأصول العقارية عبر مزادات إلكترونية محددة بوقت، حيث يتنافس المزايدون للوصول إلى السعر النهائي للبيع. وتشمل المزادات أصولاً من ملاك أفراد وأخرى بالتعاون مع مركز الإسناد والتصفية (إنفاذ).\nالمرجع: منصة وصلت - قسم الأسئلة الشائعة (https://wasalt.sa)",
+    "token_estimate": 56,
+    "metadata": {
+      "entity": "Wasalt",
+      "type": "faq",
+      "question_id": 46,
+      "question": "ما هي مزادات وصلت؟"
+    }
+  },
+  {
+    "chunk_id": "chunk_022",
+    "doc_id": "wasalt_faq_47",
+    "domain": "wasalt.sa",
+    "source_url": "https://wasalt.sa/",
+    "page_title": "موقع وصلت | عقارات للبيع و للايجار في السعودية",
+    "section": "FAQ - ما هي خدمة الطلبات العقارية وك",
+    "language": "ar",
+    "text": "الأسئلة الشائعة حول منصة وصلت (Wasalt FAQ):\nالسؤال (5): ما هي خدمة الطلبات العقارية وكيف تعمل؟\nالإجابة: تساعدك خدمة الطلبات العقارية في العثور على العملاء المحتملين بناءً على إعلاناتك النشطة، حيث تتم مطابقة الطلبات وفق نوع العقار، والغرض منه، والحي، وتصنيف العقار. وبعد نشر إعلانك، ستظهر لك الطلبات المتوافقة لتسهيل التواصل مع العملاء المناسبين.\nالمرجع: منصة وصلت - قسم الأسئلة الشائعة (https://wasalt.sa)",
+    "token_estimate": 62,
+    "metadata": {
+      "entity": "Wasalt",
+      "type": "faq",
+      "question_id": 47,
+      "question": "ما هي خدمة الطلبات العقارية وكيف تعمل؟"
+    }
+  },
+  {
+    "chunk_id": "chunk_023",
+    "doc_id": "wasalt_faq_48",
+    "domain": "wasalt.sa",
+    "source_url": "https://wasalt.sa/",
+    "page_title": "موقع وصلت | عقارات للبيع و للايجار في السعودية",
+    "section": "FAQ - ما هي الخدمات العقارية التي تق",
+    "language": "ar",
+    "text": "الأسئلة الشائعة حول منصة وصلت (Wasalt FAQ):\nالسؤال (6): ما هي الخدمات العقارية التي تقدمها وصلت؟\nالإجابة: وصلت منصة عقارية مدعومة بالذكاء الاصطناعي للعقارات الموثقة، والمشاريع، والمخططات الرئيسية، والمزادات الإلكترونية، والإيجارات اليومية، مع توفير تجربة بحث متطورة تساعد المستخدمين على العثور على منازلهم المثالية بسهولة.\nالمرجع: منصة وصلت - قسم الأسئلة الشائعة (https://wasalt.sa)",
+    "token_estimate": 53,
+    "metadata": {
+      "entity": "Wasalt",
+      "type": "faq",
+      "question_id": 48,
+      "question": "ما هي الخدمات العقارية التي تقدمها وصلت؟"
+    }
+  },
+  {
+    "chunk_id": "chunk_024",
+    "doc_id": "wasalt_auctions_01",
+    "domain": "wasalt.sa",
+    "source_url": "https://wasalt.sa/",
+    "page_title": "موقع وصلت | عقارات للبيع و للايجار في السعودية",
+    "section": "Wasalt Auctions (مزادات وصلت)",
+    "language": "ar",
+    "text": "مزادات وصلت (Wasalt Electronic Real Estate Auctions):\nالعنوان: مزادات وصلت\nالوصف والخدمات: \nمزادات وصلت هي خدمة إلكترونية تتيح بيع وشراء الأصول العقارية المميزة عبر مزادات محددة بوقت، حيث يتنافس المزايدون بشفافية وأمان وموثوقية وفق تنظيمات الهيئة العامة للعقار.",
+    "token_estimate": 38,
+    "metadata": {
+      "entity": "Wasalt",
+      "type": "auctions"
+    }
+  },
+  {
+    "chunk_id": "chunk_025",
+    "doc_id": "wasalt_categories_01",
+    "domain": "wasalt.sa",
+    "source_url": "https://wasalt.sa/",
+    "page_title": "موقع وصلت | عقارات للبيع و للايجار في السعودية",
+    "section": "Property Categories & Search (الأقسام والبحث)",
+    "language": "ar",
+    "text": "العقارات والبحث في المدن السعودية عبر وصلت (Wasalt Property Coverage & Categories):\nالعنوان: فرص عقارية مميزة في أشهر مدن السعودية\nالوصف: أكتشف العقارات في الرياض وجدة والمدينة وأشهر المدن الأخرى في السعودية \nالتغطية الجغرافية: تشمل منصة وصلت العقارات المتاحة للبيع والإيجار في مدن المملكة الرئيسية: الرياض، جدة، مكة المكرمة، المدينة المنورة، والمنطقة الشرقية.\nأقسام القائمة الرئيسية:\nقسم بيع: الرياض, جدة, مكة, المدينة\nقسم إيجار: الرياض, جدة, مكة, المدينة\nالأقسام والمدن الأكثر طلباً:\n- عقارات للايجار في السعودية: \n- فلل للايجار في السعودية: \n- شقق للايجار في السعودية: \n- عقار السعودية: \n- فلل للبيع في السعودية: \n- شقق للبيع في السعودية: \n- اراضي للبيع في السعودية: \n- فلل للبيع في الرياض: \n- شقق للايجار في الرياض:",
+    "token_estimate": 115,
+    "metadata": {
+      "entity": "Wasalt",
+      "type": "property_categories"
+    }
+  },
+  {
+    "chunk_id": "chunk_026",
+    "doc_id": "wasalt_hero_01",
+    "domain": "wasalt.sa",
+    "source_url": "https://wasalt.sa/",
+    "page_title": "موقع وصلت | عقارات للبيع و للايجار في السعودية",
+    "section": "Hero & Value Proposition",
+    "language": "ar",
+    "text": "منصة وصلت - القيمة والخدمات (Wasalt Value Proposition):\nالعنوان الترويجي: \nالوصف: \nالخدمات: بيع، شراء، إيجار، مزادات عقارية، تقييم، وخدمات للمسوقين والمطورين والمشترين.",
+    "token_estimate": 22,
+    "metadata": {
+      "entity": "Wasalt",
+      "type": "hero"
+    }
+  }
+]
